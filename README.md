@@ -625,12 +625,6 @@
 	<td>车型系列</td>
 </tr>
 <tr>
-	<td>vehicleName</td>
-	<td>车型名称</td>
-	<td>modelYear</td>
-	<td>年款</td>
-</tr>
-<tr>
 	<td>recallQuantity</td>
 	<td>召回数量</td>
 	<td>productionDate</td>
@@ -771,7 +765,7 @@
 <tr>
   <td>idCard</td>
   <td>身份证号码/组织机构代码</td>
-  <td></td>
-  <td></td>
+  <td>age</td>
+  <td>年龄</td>
 </tr>
 </table>
