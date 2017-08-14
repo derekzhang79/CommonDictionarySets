@@ -207,8 +207,8 @@
 <tr>
 	<td>regAuthority</td>
 	<td>登机机关</td>
-	<td>regDate</td>
-	<td>注册时间 </td>
+	<td>party</td>
+	<td>当事人</td>
 </tr>
 <tr>
 	<td>executionTarget</td>
@@ -401,5 +401,263 @@
 	<td>代理机构联系方式</td>
 	<td>mainText</td>
 	<td>正文</td>
+</tr>
+<tr>
+  <td>beDescription</td>
+  <td>失信被执行人行为具体情形</td>
+  <td>unitExecution</td>
+  <td>做出执行依据单位</td>
+</tr>
+<tr>
+  <td>courtName</td>
+  <td>法院</td>
+  <td>caseName</td>
+  <td>案件名称</td>
+</tr>
+<tr>
+  <td>refereeDate</td>
+  <td>裁判日期</td>
+  <td>noticeType</td>
+  <td>公告类型</td>
+</tr>
+<tr>
+  <td>noticePeople</td>
+  <td>公告人</td>
+  <td>litigant</td>
+  <td>当事人</td>
+</tr>
+<tr>
+  <td>wrDecisionNo</td>
+  <td>决定书文号</td>
+  <td>punishContent</td>
+  <td>环境违法事实和证据</td>
+</tr>
+<tr>
+  <td>punishResult</td>
+  <td>处罚结果</td>
+  <td>penaltyDate</td>
+  <td>处罚日期</td>
+</tr>
+<tr>
+  <td>moCategory</td>
+  <td>监控类别</td>
+  <td>admAreaCode</td>
+  <td>行政区域代码</td>
+</tr>
+<tr>
+  <td>legalPersonCode</td>
+  <td>法人代码</td>
+  <td>date</td>
+  <td>日期</td>
+</tr>
+<tr>
+  <td>brIntroductd</td>
+  <td>情况简述</td>
+  <td>exProblems</td>
+  <td>存在问题</td>
+</tr>
+<tr>
+  <td>treSituation</td>
+  <td>处理情况</td>
+  <td>nextMeasures</td>
+  <td>下步措施</td>
+</tr>
+<tr>
+  <td>situation</td>
+  <td>主要违法事实、相关法律依据及税务处理处罚情况</td>
+  <td>natureOfCase</td>
+  <td>案件性质</td>
+</tr>
+<tr>
+  <td>newBalance</td>
+  <td>当前新发生的欠税余额</td>
+  <td>approvalPeriod</td>
+  <td>认定期</td>
+</tr>
+<tr>
+  <td>puReason</td>
+  <td>处罚事由</td>
+  <td>effectiveDate</td>
+  <td>处罚生效日期</td>
+</tr>
+<tr>
+  <td>noticeNo</td>
+  <td>公告号</td>
+  <td>nominalName</td>
+  <td>标称生产企业名称/标称产品名称</td>
+</tr>
+<tr>
+  <td>samplingType</td>
+  <td>抽检类型</td>
+  <td>licenseName</td>
+  <td>许可证名称</td>
+</tr>
+<tr>
+  <td>licenseNo</td>
+  <td>许可证编号</td>
+  <td>approvalNo</td>
+  <td>批准文号</td>
+</tr>
+<tr>
+  <td>category</td>
+  <td>类别</td>
+  <td>approvalDate</td>
+  <td>批准日期</td>
+</tr>
+<tr>
+  <td>regNum</td>
+  <td>注册证号</td>
+  <td>cnProductName</td>
+  <td>产品名称(中文)</td>
+</tr>
+<tr>
+  <td>dateOfIssue</td>
+  <td>发证日期</td>
+  <td>recordNum</td>
+  <td>备案号</td>
+</tr>
+<tr>
+  <td>genericName</td>
+  <td>药品通用名称</td>
+  <td>filingDate</td>
+  <td>备案日期</td>
+</tr>
+<tr>
+  <td>acceptanceNum</td>
+  <td>受理号</td>
+  <td>drugName</td>
+  <td>药品名称</td>
+</tr>
+<tr>
+  <td>paMaturityDate</td>
+  <td>专利到期日或专利授权/公开日期</td>
+  <td>certificateNum</td>
+  <td>证书编号</td>
+</tr>
+<tr>
+  <td>cogSpecialty</td>
+  <td>认定专业</td>
+  <td>atDate</td>
+  <td>认证日期</td>
+</tr>
+<tr>
+  <td>atInfoName</td>
+  <td>认证信息名称</td>
+  <td>atNum</td>
+  <td>认证编号</td>
+</tr>
+<tr>
+  <td>regAtNum</td>
+  <td>注册证号</td>
+  <td>cultivarName</td>
+  <td>品种名称</td>
+</tr>
+<tr>
+  <td>documentNo</td>
+  <td>批件号</td>
+  <td>cerCopiesNum</td>
+  <td>证书份数</td>
+</tr>
+<tr>
+  <td>proVarietieNum</td>
+  <td>保护品种编号</td>
+  <td>proLevel</td>
+  <td>保护级别</td>
+</tr>
+<tr>
+  <td>proTerm</td>
+  <td>保护期限</td>
+  <td>regCertificateNum</td>
+  <td>注册证编号</td>
+</tr>
+<tr>
+  <td>prjNum</td>
+  <td>项目序号</td>
+  <td>prjName</td>
+  <td>项目名称</td>
+</tr>
+<tr>
+  <td>approvalDate</td>
+  <td>认可日期</td>
+  <td>adApprovalNo</td>
+  <td>广告批准文号</td>
+</tr>
+<tr>
+  <td>adReleaseCon</td>
+  <td>广告发布内容</td>
+  <td>adConType</td>
+  <td>广告内容类型</td>
+</tr>
+<tr>
+  <td>admNoticeNum</td>
+  <td>总局通告号</td>
+  <td>adProductName</td>
+  <td>广告中标识产品名称</td>
+</tr>
+<tr>
+  <td>illegalCon</td>
+  <td>违法内容简述</td>
+  <td>admNoticeDate</td>
+  <td>总局通告时间</td>
+</tr>
+<tr>
+  <td>domainName</td>
+  <td>域名</td>
+  <td>预警原因</td>
+  <td>warningReason</td>
+</tr>
+<tr>
+	<td>车型名称</td>
+	<td>vehicleName</td>
+	<td>年款</td>
+	<td>modelYear</td>
+</tr>
+<tr>
+	<td>缺陷描述</td>
+	<td>defectDescription</td>
+	<td>生产者名称</td>
+	<td>producerName</td>
+</tr>
+<tr>
+	<td>召回总数量</td>
+	<td>recalTtotal</td>
+	<td>车型系列</td>
+	<td>modelSeries</td>
+</tr>
+<tr>
+	<td>车型名称</td>
+	<td>vehicleName</td>
+	<td>年款</td>
+	<td>modelYear</td>
+</tr>
+<tr>
+	<td>召回数量</td>
+	<td>recallQuantity</td>
+	<td>生产日期范围</td>
+	<td>productionDate</td>
+</tr>
+<tr>
+	<td>VIN码范围（不连续）</td>
+	<td>vinRange</td>
+	<td>缺陷补救措施 </td>
+	<td>remedialMeasures</td>
+</tr>
+<tr>
+	<td>应急处置方法</td>
+	<td>disposalMethod</td>
+	<td>召回日程安排</td>
+	<td>schedule</td>
+</tr>
+<tr>
+	<td>通知用户方案</td>
+	<td>userScheme</td>
+	<td>其他信息</td>
+	<td>otherInformation</td>
+</tr>
+<tr>
+	<td>车型系列</td>
+	<td>modelSeries</td>
+	<td>fullText</td>
+	<td>全文</td>
 </tr>
 </table>
