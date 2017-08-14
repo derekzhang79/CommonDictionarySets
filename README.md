@@ -691,14 +691,14 @@
 	<td>索引号</td>
 </tr>
 <tr>
-	<td>punishText</td>
-	<td>行政处罚决定书全文</td>
 	<td>publishingOrg</td>
 	<td>发布机构</td>
+	<td>takeObligation</td>
+  	<td>生效法律文书确定的义务</td>
 </tr>
 <tr>
-	<td>postingDate</td>
-	<td>发文日期</td>
+	<td>idCard</td>
+        <td>身份证号码/组织机构代码</td>
 	<td>decDocument</td>
 	<td>决定文书</td>
 </tr>
@@ -763,9 +763,15 @@
 	<td>软件名称</td>
 </tr> 
 <tr>
-	<td>abstractTit</td>
-	<td>摘要标题</td>
-	<td>publicityDate </td>
-	<td>公开（公告）日</td>
+  <td>beName</td>
+  <td>被执行人姓名</td>
+  <td>gender</td>
+  <td>性别</td>
+</tr>
+<tr>
+  <td>idCard</td>
+  <td>身份证号码/组织机构代码</td>
+  <td></td>
+  <td></td>
 </tr>
 </table>
