@@ -79,7 +79,7 @@
         <td>持股数量  </td>
     </tr>
     <tr>
-        <td>nameInstitution</td>
+        <td>shareholderName</td>
         <td>股东名称 </td>
         <td>proportionTotal</td>
         <td>持股比例 </td>
