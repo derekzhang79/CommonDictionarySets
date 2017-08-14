@@ -3,10 +3,14 @@
     <tr>
         <th>字段名</td>
         <th>描述</td>
+        <th>字段名</td>
+        <th>描述</td>
     </tr>
     <tr>
         <td>entName</td>
         <td>公司名称</td>
+        <td>entName2</td>
+        <td>公司名称2</td>
     </tr>
     <tr>
         <td>entAddress</td>
