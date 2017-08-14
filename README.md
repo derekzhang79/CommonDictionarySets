@@ -601,63 +601,171 @@
   <td>总局通告时间</td>
 </tr>
 <tr>
-  <td>domainName</td>
   <td>域名</td>
-  <td>预警原因</td>
+  <td>domainName</td>
   <td>warningReason</td>
+  <td>预警原因</td>
 </tr>
 <tr>
-	<td>车型名称</td>
 	<td>vehicleName</td>
-	<td>年款</td>
+	<td>车型名称</td>
 	<td>modelYear</td>
+	<td>年款</td>
 </tr>
 <tr>
-	<td>缺陷描述</td>
 	<td>defectDescription</td>
-	<td>生产者名称</td>
+	<td>缺陷描述</td>
 	<td>producerName</td>
+	<td>生产者名称</td>
 </tr>
 <tr>
-	<td>召回总数量</td>
 	<td>recalTtotal</td>
-	<td>车型系列</td>
+	<td>召回总数量</td>
 	<td>modelSeries</td>
+	<td>车型系列</td>
 </tr>
 <tr>
-	<td>车型名称</td>
 	<td>vehicleName</td>
-	<td>年款</td>
+	<td>车型名称</td>
 	<td>modelYear</td>
+	<td>年款</td>
 </tr>
 <tr>
-	<td>召回数量</td>
 	<td>recallQuantity</td>
-	<td>生产日期范围</td>
+	<td>召回数量</td>
 	<td>productionDate</td>
+	<td>生产日期范围</td>
 </tr>
 <tr>
-	<td>VIN码范围（不连续）</td>
 	<td>vinRange</td>
-	<td>缺陷补救措施 </td>
+	<td>VIN码范围（不连续）</td>
 	<td>remedialMeasures</td>
+	<td>缺陷补救措施 </td>
 </tr>
 <tr>
-	<td>应急处置方法</td>
 	<td>disposalMethod</td>
-	<td>召回日程安排</td>
+	<td>应急处置方法</td>
 	<td>schedule</td>
+	<td>召回日程安排</td>
 </tr>
 <tr>
-	<td>通知用户方案</td>
 	<td>userScheme</td>
-	<td>其他信息</td>
+	<td>通知用户方案</td>
 	<td>otherInformation</td>
+	<td>其他信息</td>
 </tr>
 <tr>
-	<td>车型系列</td>
 	<td>modelSeries</td>
+	<td>车型系列</td>
 	<td>fullText</td>
 	<td>全文</td>
+</tr>
+<tr>
+	<td>businessAdd</td>
+	<td>营业地址</td>
+	<td>personInCharge</td>
+	<td>单位负责人</td>
+</tr>
+<tr>
+	<td>partyPost</td>
+	<td>当事人职务</td>
+	<td>address</td>
+	<td>住址</td>
+</tr>
+<tr>
+	<td>punishText</td>
+	<td>行政处罚决定书全文</td>
+	<td>documentNum</td>
+	<td>文号</td>
+</tr>
+<tr>
+	<td>financeName</td>
+	<td>名称</td>
+	<td>publishingOrgan</td>
+	<td>发布机关</td>
+</tr>
+<tr>
+	<td>dispatchDate</td>
+	<td>发文日期</td>
+	<td>indexQuotes</td>
+	<td>索引号</td>
+</tr>
+<tr>
+	<td>punishText</td>
+	<td>行政处罚决定书全文</td>
+	<td>publishingOrg</td>
+	<td>发布机构</td>
+</tr>
+<tr>
+	<td>postingDate</td>
+	<td>发文日期</td>
+	<td>decDocument</td>
+	<td>决定文书</td>
+</tr>
+<tr>
+	<td>illegalFacts</td>
+	<td>主要违法违规事实（案由）</td>
+	<td>admPenalDecision</td>
+	<td>行政处罚决定</td>
+</tr>
+<tr>
+	<td>decisionDate</td>
+	<td>处罚决定日期</td>
+	<td>productName</td>
+	<td>项目名称</td>
+</tr>
+<tr>
+	<td>admDeciDepartment</td>
+	<td>行政决定部门</td>
+	<td>admDecisCategory</td>
+	<td>行政决定类别</td>
+</tr>
+<tr>
+	<td>setBasis</td>
+	<td>设定依据</td>
+	<td>admCategory</td>
+	<td>行政相对人类别</td>
+</tr>
+<tr>
+	<td>penaltyNum</td>
+	<td>行政处罚决定书文号</td>
+	<td>bepunishedName</td>
+	<td>被处罚当事人姓名或名称</td>
+</tr>
+<tr>
+	<td>violationFacts</td>
+	<td>主要违法违规事实（案由）</td>
+	<td>punishmentBasis</td>
+	<td>行政处罚依据</td>
+</tr>
+<tr>
+	<td>penaltyDecision</td>
+	<td>行政处罚决定</td>
+	<td>organizationName</td>
+	<td>作出处罚决定的机关名称</td>
+</tr>
+<tr>
+	<td>abstractTit</td>
+	<td>摘要标题</td>
+	<td>publicityDate</td>
+	<td>公开（公告）日</td>
+</tr> 
+<tr>
+	<td>applyTime</td>
+	<td>申请时间</td>
+	<td>type </td>
+	<td>分类</td>
+</tr>
+<tr>
+	<td>worksTitle</td>
+	<td>作品标题</td>
+	<td>sfName</td>
+	<td>软件名称</td>
+</tr> 
+<tr>
+	<td>abstractTit</td>
+	<td>摘要标题</td>
+	<td>publicityDate </td>
+	<td>公开（公告）日</td>
 </tr>
 </table>
