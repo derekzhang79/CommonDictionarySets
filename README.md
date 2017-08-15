@@ -912,4 +912,22 @@
 	<td>solutionDeadline</td>
 	<td>解决时限</td>
 </tr>
+<tr>
+	<td>spotCheckDate</td>
+	<td>抽查检查日期</td>
+	<td>spotCheckType</td>
+	<td>抽查检查类型</td>
+</tr>
+<tr>
+	<td>spotCheckAuth</td>
+	<td>抽查检查机关</td>
+	<td>spotCheckResult</td>
+	<td>抽查检查结果</td>
+</tr>
+<tr>
+    <td>closingDate</td>
+    <td>截止日期</td>
+    <td>penaltyOrgan</td>
+    <td>处罚机关</td>
+</tr>
 </table>
