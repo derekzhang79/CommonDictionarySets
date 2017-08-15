@@ -930,4 +930,76 @@
         <td>penaltyOrgan</td>
         <td>处罚机关</td>
 </tr>
+<tr>
+	<td>noticeNumber</td>
+	<td>执行通知书文号</td>
+	<td>consultationNumber</td>
+	<td>执行裁定书文号</td>
+</tr>
+<tr>
+	<td>enforceCourt</td>
+	<td>执行法院</td>
+	<td>excutedPerson</td>
+	<td>被执行人</td>
+</tr>
+<tr>
+    <td>equityInterestsAmount</td>
+    <td>持有股权、其它投资权益的数额</td>
+    <td>lisenceType</td>
+    <td>证照种类</td>
+</tr>
+<tr>
+    <td>lisenceNumber</td>
+    <td>证照号码</td>
+    <td>typeStatus</td>
+    <td>类型/状态</td>
+</tr>
+<tr>             
+	<td>appDate</td>
+	<td>申请日</td>              
+	<td>publicNum</td>
+	<td>公开（公告）号</td>
+</tr>
+<tr>                
+	<td>classificationNum</td>
+	<td>分类号</td>                
+	<td>priority</td>
+	<td>优先权</td>
+</tr>
+<tr>                
+	<td>inventor</td>
+	<td>发明（设计）人</td>                
+	<td>agent</td>
+	<td>代理人</td>
+</tr>
+<tr>                
+	<td>legalStatus</td>
+	<td>最新法律状态</td>                
+	<td>intApplication</td>
+	<td>国际申请</td>
+</tr>
+<tr>                
+	<td>intPublication</td>
+	<td>国际公布</td>
+	<td>brandName</td>
+	<td>商标名称</td>                             
+</tr>
+<tr>                
+	<td>trademarkType</td>
+	<td>商标分类</td>
+	<td>trademarkState</td>
+	<td>商标状态</td>                             
+</tr>
+<tr>                
+	<td>applicationDate</td>
+	<td>申请日期</td>
+	<td>commodityList</td>
+	<td>商品/服务列表</td>                             
+</tr>
+<tr>
+    <td>excuteItem</td>
+    <td>执行事项</td>
+    <td></td>
+    <td></td>
+</tr>
 </table>
