@@ -792,4 +792,71 @@
 	<td>shareholderType</td>
 	<td>股东类型</td>
 </tr>
+<tr>
+	<td>punishDate</td>
+	<td>作出处罚决定的日期</td>
+	<td>customsName</td>
+	<td>海关名称</td>
+</tr>
+<tr>
+	<td>puCustomsName</td>
+	<td>作出处罚决定的海关名称</td>
+	<td>cusRegistrationNum</td>
+	<td>海关注册编号</td>
+</tr>
+<tr>
+	<td>penaltyDate</td>
+	<td>行政处罚作出日期</td>
+	<td>penaltyText</td>
+	<td>处罚决定书全文</td>
+</tr>
+<tr>
+	<td>monthly</td>
+	<td>月度</td>
+	<td>commodityName</td>
+	<td>商品名称</td>
+</tr>
+<tr>
+	<td>deliveryPlace</td>
+	<td>收发货地</td>
+	<td>usdAmount</td>
+	<td>金额(USD)</td>
+</tr>
+<tr>
+	<td>countryOrigin</td>
+	<td>出口最终国或进口原产国</td>
+	<td>tradeMode</td>
+	<td>贸易方式</td>
+</tr>
+<tr>
+	<td>shippingType</td>
+	<td>运输方式</td>
+	<td>transitCountry</td>
+	<td>中转国</td>
+</tr>
+<tr>
+	<td>quantityUnit</td>
+	<td>数量单位</td>
+	<td>entPostcode</td>
+	<td>企业邮编</td>
+</tr>
+<tr>
+	<td>entFax</td>
+	<td>企业传真</td>
+	<td>email</td>
+	<td>电子邮件</td>
+</tr>
+<tr>
+	<td>contacts</td>
+	<td>联系人</td>
+	<td>entType</td>
+	<td>企业性质</td>
+</tr>
+<tr>
+	<td>entAddress</td>
+	<td>企业详细地址</td>
+	<td>proCities</td>
+	<td>省市</td>
+</tr>
+
 </table>
