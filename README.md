@@ -768,4 +768,28 @@
   <td>age</td>
   <td>年龄</td>
 </tr>
+<tr>
+	<td>legalRepresentative</td>
+	<td>法定代表人</td>
+	<td>approvalDate</td>
+	<td>核准日期</td>
+</tr>
+<tr>
+	<td>regStatus</td>
+	<td>登记状态</td>
+	<td>residence</td>
+	<td>住所</td>
+</tr>
+<tr>
+	<td>investWay</td>
+	<td>出资方式</td>
+	<td>investAmount</td>
+	<td>出资额</td>
+</tr>
+<tr>
+	<td>investDate</td>
+	<td>出资日期</td>
+	<td>shareholderType</td>
+	<td>股东类型</td>
+</tr>
 </table>
