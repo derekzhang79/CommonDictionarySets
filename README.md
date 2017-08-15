@@ -894,5 +894,22 @@
 	<td>permitContent</td>
 	<td>许可内容</td>  
 </tr>
-
+<tr>
+	<td>punishType</td>
+	<td>处罚类型</td>
+	<td>notificationTime</td>
+	<td>通报时间</td>
+</tr>
+<tr>
+	<td>supervisionLevel</td>
+	<td>督办级别</td>
+	<td>supervisionOrgan</td>
+	<td>督办单位</td>
+</tr>
+<tr>
+	<td>majorSolution</td>
+	<td>解决措施要点</td>
+	<td>solutionDeadline</td>
+	<td>解决时限</td>
+</tr>
 </table>
