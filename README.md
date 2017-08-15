@@ -156,6 +156,12 @@
         <td>licensingAuthority</td>
         <td>许可机关 </td>
     </tr>
+    <tr>     
+	<td>termOfValidityStart</td>
+	<td>有效期(起)</td>
+	<td>termOfValidityEnd</td>
+	<td>有效期(止)</td>
+    </tr>
     <tr>
         <td>termOfValidity</td>
         <td>有效期 </td>
@@ -885,8 +891,8 @@
 <tr>                
 	<td>intPublication</td>
 	<td>国际公布</td>   
-	<td></td>
-	<td></td>
+	<td>permitContent</td>
+	<td>许可内容</td>  
 </tr>
 
 </table>
