@@ -858,5 +858,35 @@
 	<td>proCities</td>
 	<td>省市</td>
 </tr>
+<tr>             
+	<td>appDate</td>
+	<td>申请日</td>              
+	<td>publicNum</td>
+	<td>公开（公告）号</td>
+</tr>
+<tr>                
+	<td>classificationNum</td>
+	<td>分类号</td>                
+	<td>priority</td>
+	<td>优先权</td>
+</tr>
+<tr>                
+	<td>inventor</td>
+	<td>发明（设计）人</td>                
+	<td>agent</td>
+	<td>代理人</td>
+</tr>
+<tr>                
+	<td>legalStatus</td>
+	<td>最新法律状态</td>                
+	<td>intApplication</td>
+	<td>国际申请</td>
+</tr>
+<tr>                
+	<td>intPublication</td>
+	<td>国际公布</td>   
+	<td></td>
+	<td></td>
+</tr>
 
 </table>
