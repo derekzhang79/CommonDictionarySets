@@ -1135,12 +1135,6 @@
 		<td>网站名称</td>
 	</tr>
 	<tr>
-		<td>siteManager</td>
-		<td>网站负责人</td>
-		<td>siteName</td>
-		<td>网站名称</td>
-	</tr>
-	<tr>
 		<td>siteAdd</td>
 		<td>网站地址</td>
 		<td>domainName</td>
@@ -1374,6 +1368,8 @@
 		<td>relatedBaseQuery</td>
 	    	<td>相关数据库查询</td>
 	</tr>
-
-
+	<tr>
+		<td>siteManager</td>
+		<td>网站负责人</td>
+	</tr>
 </table>
