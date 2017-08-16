@@ -997,6 +997,84 @@
 	<td>商品/服务列表</td>                             
 </tr>
 <tr>
+	<td>particularYear</td>
+	<td>年份</td>
+	<td>titleName</td>
+	<td>文章标题</td>
+</tr>
+<tr>
+	<td>infoImg</td>
+	<td>信息图片</td>
+	<td>articleCon</td>
+	<td>文章内容</td>
+</tr>
+<tr>
+	<td>articleSource</td>
+	<td>文章来源</td>
+	<td>articleTime</td>
+	<td>文章时间</td>
+</tr>
+<tr>
+    <td>nominalAddress</td>
+    <td>标称生产企业地址</td>
+    <td>unitName</td>
+    <td>被抽样单位名称</td>
+</tr>
+<tr>
+    <td>remarks</td>
+    <td>备注</td>
+    <td>sampledPrj</td>
+    <td>抽检项目</td>
+</tr>
+<tr>
+	<td>guranteeDebtAmount</td>
+	<td>被担保债权数额</td>
+	<td>mortageStatus</td>
+	<td>抵押状态</td>
+</tr>
+<tr>
+	<td>publicityDate</td>
+	<td>公示日期</td>
+	<td>mortgageeName</td>
+	<td>抵押权人名称</td>
+</tr>
+<tr>
+	<td>pledgedStockAmount</td>
+	<td>出质股权数额</td>
+	<td>mortgageResidence</td>
+	<td>动产抵押住所地</td>
+</tr>
+<tr>
+	<td>mortgageAmount</td>
+	<td>动产抵押数额</td>
+	<td>guaranteeScope</td>
+	<td>担保的范围</td>
+</tr>
+<tr>
+	<td>debtTerm</td>
+	<td>履行债务期限</td>
+	<td>ownership</td>
+	<td>所有权或使用权归属</td>
+</tr>
+<tr>
+	<td>quantityQualityStatusLocation</td>
+	<td>数量、质量、状况、所在地等情况</td>
+	<td>withdrawReason</td>
+	<td>注销原因</td>
+</tr>
+<tr>
+	<td>withdrawDate</td>
+	<td>注销日期</td>
+	<td>pledgor</td>
+	<td>出质人</td>
+</tr>
+<tr>
+	<td>pledgee</td>
+	<td>质权人</td>
+	<td>ipName</td>
+	<td>知识产权名称</td>
+</tr>
+<tr>
     <td>excuteItem</td>
     <td>执行事项</td>
     <td></td>
