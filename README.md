@@ -1074,6 +1074,116 @@
 	<td>ipName</td>
 	<td>知识产权名称</td>
 </tr>
+<tr>                
+	<td>classificationWork</td>
+	<td>作品分类</td>
+	<td>obligee</td>
+	<td>权利人</td>                             
+</tr>
+<tr>                
+	<td>creativeNature</td>
+	<td>创作性质</td>
+	<td>author</td>
+	<td>作者</td>                             
+</tr>
+<tr>                
+	<td>completionTime</td>
+	<td>创作完成时间</td>
+	<td>ownershipMode</td>
+	<td>权利归属方式</td>                             
+</tr>
+<tr>                
+	<td>publicationPlace</td>
+	<td>首次发表地点</td>
+	<td>publicationDate</td>
+	<td>首次发表日期</td>                             
+</tr>
+<tr>                
+	<td>versionNum</td>
+	<td>版本号</td>
+	<td>classificNum</td>
+	<td>分类号</td>                             
+</tr>
+<tr>                
+	<td>worksType</td>
+	<td>作品分类</td>
+	<td>palceRange</td>
+	<td>地域范围</td>                             
+</tr>
+<tr>                
+	<td>authorization</td>
+	<td>永久转让或授权</td>
+	<td>genericClass</td>
+	<td>所属类</td>                             
+</tr>
+
+
+<tr>                
+	<td>startDate</td>
+	<td>合同开始时间</td>
+	<td>expirationDate</td>
+	<td>合同到期时间</td>                             
+</tr>
+<tr>                
+	<td>siteAdd</td>
+	<td>网址</td>
+	<td>websiteRecordNum</td>
+	<td>网站备案号</td>                             
+</tr>
+<tr>                
+	<td>auditDate</td>
+	<td>审核时间</td>
+	<td>subjectNum</td>
+	<td>主体编号</td>                             
+</tr>
+<tr>                
+	<td>unitProperty</td>
+	<td>单位性质</td>
+	<td>recordNum</td>
+	<td>主体备案号</td>                             
+</tr>
+<tr>                
+	<td>siteNum</td>
+	<td>网站编号</td>
+	<td>siteName</td>
+	<td>网站名称</td>                             
+</tr>
+<tr>                
+	<td>siteManager</td>
+	<td>网站负责人</td>
+	<td>siteName</td>
+	<td>网站名称</td>                             
+</tr>
+<tr>                
+	<td>siteAdd</td>
+	<td>网站地址</td>
+	<td>domainName</td>
+	<td>域名</td>                             
+</tr>
+<tr>                
+	<td>websiteRecordNum</td>
+	<td>网站备案号</td>
+	<td>contentType</td>
+	<td>内容类型</td>                             
+</tr>
+<tr>                
+	<td>documentType</td>
+	<td>证件类型</td>
+	<td>identificationNumber</td>
+	<td>证件号码</td>                             
+</tr>
+<tr>                
+	<td>city</td>
+	<td>市</td>
+	<td>county</td>
+	<td>县</td>                             
+</tr>
+<tr>                
+	<td>detailedAdd</td>
+	<td>详细地址</td>
+	<td>domainnameNum</td>
+	<td>域名编号</td>                             
+</tr>
 <tr>
     <td>excuteItem</td>
     <td>执行事项</td>
