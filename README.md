@@ -1,1193 +1,1187 @@
 # 小场景常用字段
 <table>
-    <tr>
-        <th>字段名</td>
-        <th>描述</td>
-        <th>字段名</td>
-        <th>描述</td>
-    </tr>
-    <tr>
-        <td>entName</td>
-        <td>公司名称</td>
-        <td>entAddress</td>
-        <td>企业地址</td>
-    </tr>
-    <tr>
-        <td>entBaseInfo</td>
-        <td>企业基本信息</td>
-        <td>appNumber</td>
-        <td>申请号 </td>
-    </tr>
-    <tr>
-        <td>applicant</td>
-        <td>申请人</td>
-        <td>businessScope</td>
-        <td>经营范围 </td>
-    </tr>
-    <tr>
-        <td>caseNo</td>
-        <td>案号 </td>
-        <td>identificationNumber</td>
-        <td>证件号码 </td>
-    </tr>
-    <tr>
-        <td>documentType</td>
-        <td>证件类型</td>
-        <td>changeDate</td>
-        <td>变更日期 </td>
-    </tr>
-    <tr>
-        <td>changeItem</td>
-        <td>变更事项 </td>
-        <td>entTel</td>
-        <td>总台电话 </td>
-    </tr>
-    <tr>
-        <td>isMarket</td>
-        <td>是否上市（是/否） </td>
-        <td>legalPerson</td>
-        <td>法人代表 </td>
-    </tr>
-    <tr>
-        <td>regAsset</td>
-        <td>注册资本 </td>
-        <td>moneyCurrency</td>
-        <td>注册资本币种  </td>
-    </tr>
-    <tr>
-        <td>societyCode</td>
-        <td>统一社会信用代码 </td>
-        <td>entType</td>
-        <td>企业类型 </td>
-    </tr>
-    <tr>
-        <td>entUrl</td>
-        <td>企业网址 </td>
-        <td>usedName</td>
-        <td>曾用名  </td>
-    </tr>
-    <tr>
-        <td>registerDate</td>
-        <td>成立日期  </td>
-        <td>registerOrganization</td>
-        <td>登记机关  </td>
-    </tr>
-    <tr>
-        <td>entId</td>
-        <td>主体企业id </td>
-        <td>holdingQuantity</td>
-        <td>持股数量  </td>
-    </tr>
-    <tr>
-        <td>shareholderName</td>
-        <td>股东名称 </td>
-        <td>proportionTotal</td>
-        <td>持股比例 </td>
-    </tr>
-    <tr>
-        <td>reportDate</td>
-        <td>截止时间 </td>
-        <td>shareType</td>
-        <td>股份性质 </td>
-    </tr>
-    <tr>
-        <td>attention</td>
-        <td>是否关注 </td>
-        <td>entShortName</td>
-        <td>企业简称 </td>
-    </tr>
-    <tr>
-        <td>inTime</td>
-        <td>录入时间 </td>
-        <td>executeResult</td>
-        <td>被执行人的履行情况  </td>
-    </tr>
-    <tr>
-        <td>park</td>
-        <td>园区 </td>
-        <td>ownedstreet</td>
-        <td>所属街道 </td>
-    </tr>
-    <tr>
-        <td>officeBuilding</td>
-        <td>写字楼 </td>
-        <td>income</td>
-        <td>营业收入 </td>
-    </tr>
-    <tr>
-        <td>personnelScale</td>
-        <td>人员规模 </td>
-        <td>patent</td>
-        <td>专利 </td>
-    </tr>
-    <tr>
-        <td>branch</td>
-        <td>分公司 </td>
-        <td>trademark</td>
-        <td>商标 </td>
-    </tr>
-    <tr>
-        <td>administrativeSanction</td>
-        <td>行政处罚 </td>
-        <td>copyright</td>
-        <td>著作权 </td>
-    </tr>
-    <tr>
-        <td>subscription</td>
-        <td>认缴额 </td>
-        <td>paidAmount</td>
-        <td>实缴额 </td>
-    </tr>
-    <tr>
-        <td>changeAfter</td>
-        <td>变更后内容  </td>
-        <td>changeBefore</td>
-        <td>变跟前内容  </td>
-    </tr>
-    <tr>
-        <td>changeItem</td>
-        <td>变更事项  </td>
-        <td>inputOrganization</td>
-        <td> 作出决定机关（列入） </td>
-    </tr>
-    <tr>
-        <td>inputReason</td>
-        <td>列入经营异常名录原因 </td>
-        <td>licensingAuthority</td>
-        <td>许可机关 </td>
-    </tr>
-    <tr>     
-	<td>termOfValidityStart</td>
-	<td>有效期(起)</td>
-	<td>termOfValidityEnd</td>
-	<td>有效期(止)</td>
-    </tr>
-    <tr>
-        <td>termOfValidity</td>
-        <td>有效期 </td>
-        <td>abstract</td>
-        <td>摘要 </td>
-    </tr>
-    <tr>
-        <td>patentType</td>
-        <td>专利类型 </td>
-        <td>state</td>
-        <td>状态 </td>
-    </tr>
-    <tr>
-        <td>round</td>
-        <td>轮次 </td>
-        <td>recruitmentPosition</td>
-        <td>招聘岗位 </td>
-    </tr>
-    <tr>
-        <td>workingPlace</td>
-        <td>工作地点 </td>
-        <td>salary</td>
-        <td>月薪 </td>
-    </tr>
-    <tr>
-        <td>taxesTaxes</td>
-        <td>欠税税种 </td>
-        <td>balance</td>
-        <td>欠税余额 </td>
-    </tr>
-    <tr>
-        <td>collection</td>
-        <td>收藏 </td>
-        <td>record</td>
-        <td>记录 </td>
-    </tr>
-    <tr>
-	<td>regNumber</td>
-	<td>注册号</td>
-	<td>regDate</td>
-	<td>注册时间 </td>
-</tr>
-<tr>
-	<td>operateStart</td>
-	<td>经营期限(起)</td>
-	<td>operateEnd</td>
-	<td>经营期限(止) </td>
-</tr>
-<tr>
-	<td>regAuthority</td>
-	<td>登机机关</td>
-	<td>party</td>
-	<td>当事人</td>
-</tr>
-<tr>
-	<td>executionTarget</td>
-	<td>执行标的</td>
-	<td>executionCourt</td>
-	<td>执行法院 </td>
-</tr>
-<tr>
-	<td>filingTime</td>
-	<td>立案时间</td>
-	<td>productName</td>
-	<td>产品名称 </td>
-</tr>
-<tr>
-	<td>productLevel</td>
-	<td>产品等级</td>
-	<td>specifications</td>
-	<td>规格型号</td>
-</tr>
-<tr>
-	<td>manufactureDate</td>
-	<td>生产日期/批号</td>
-	<td>checkResult</td>
-	<td>抽查结果</td>
-</tr>
-<tr>
-	<td>nonconProject</td>
-	<td>主要不合格项目</td>
-	<td>approvalInstitution</td>
-	<td>承检机构</td>
-</tr>
-<tr>
-	<td>investedEnt</td>
-	<td>被投企业</td>
-	<td>investAmount</td>
-	<td>投资金额</td>
-</tr>
-<tr>
-	<td>round</td>
-	<td>轮次</td>
-	<td>investDate</td>
-	<td>投资时间</td>
-</tr>
-<tr>
-	<td>investInfo</td>
-	<td>投资信息</td>
-	<td>entShorthand</td>
-	<td>企业简称</td>
-</tr>
-<tr>
-	<td>investor</td>
-	<td>投资方</td>
-	<td>industry</td>
-	<td>行业</td>
-</tr>
-<tr>
-	<td>stockRight</td>
-	<td>股权</td>
-	<td>investRound</td>
-	<td>投资轮次</td>
-</tr>
-<tr>
-	<td>area</td>
-	<td>地区</td>
-	<td> tradeTarget</td>
-	<td>交易标的</td>
-</tr>
-<tr>
-	<td>mergeWay</td>
-	<td>并购方式</td>
-	<td> tradeAmount</td>
-	<td>交易金额</td>
-</tr>
-<tr>
-	<td>announceDate</td>
-	<td>公告日期</td>
-	<td>hsCode</td>
-	<td>HS编码</td>
-</tr>
-<tr>
-	<td>inspectionNum</td>
-	<td>报检单号</td>
-	<td>productName</td>
-	<td>产品名称</td>
-</tr>
-<tr>
-	<td>originPlace</td>
-	<td>产地</td>
-	<td>manufacturerNum</td>
-	<td>制造商名称及注册编号</td>
-</tr>
-<tr>
-	<td>importerNum</td>
-	<td>进口商名称及注册编号</td>
-	<td>weight</td>
-	<td>重量（千克）</td>
-</tr>
-<tr>
-	<td>notpermittedFacts</td>
-	<td>未予准入的事实</td>
-	<td>measuresIfication</td>
-	<td>处理措施分类</td>
-</tr>
-<tr>
-	<td>entryPort</td>
-	<td>进境口岸</td>
-	<td>targetObtainer</td>
-	<td>标的获得方</td>
-</tr>
-<tr>
-	<td>targetTransferor</td>
-	<td>标的出让方</td>
-	<td>lastestSchedule</td>
-	<td>最新进度</td>
-</tr>
-<tr>
-	<td>tradeGoal</td>
-	<td>交易目的</td>
-	<td>currency</td>
-	<td>币种</td>
-</tr>
-<tr>
-	<td>targetType</td>
-	<td>标的类型</td>
-	<td>equityTradingRatio</td>
-	<td>股权交易比例</td>
-</tr>
-<tr>
-	<td>obtainerFinalRadio</td>
-	<td>获得方最终持有比例</td>
-	<td>tartgetIndustry</td>
-	<td>标的行业</td>
-</tr>
-<tr>
-	<td>targetDetail</td>
-	<td>标的详情</td>
-	<td>firstAnnounceDate</td>
-	<td>首次公告日期</td>
-</tr>
-<tr>
-	<td>tradeDate</td>
-	<td>交易日期</td>
-	<td>overseaMerge</td>
-	<td>是否海外并购</td>
-</tr>
-<tr>
-	<td>tradeIntro</td>
-	<td>交易简介</td>
-	<td>bidName</td>
-	<td>招标名称</td>
-</tr>
-<tr>
-	<td>itemType</td>
-	<td>品目</td>
-	<td>bidEnt</td>
-	<td>招标单位</td>
-</tr>
-<tr>
-	<td>releaseDate</td>
-	<td>发布时间</td>
-	<td>admArea</td>
-	<td>行政区域</td>
-</tr>
-<tr>
-	<td>province</td>
-	<td>省份</td>
-	<td>bidPublicityType</td>
-	<td>招投标公告类型</td>
-</tr>
-<tr>
-	<td>proContact</td>
-	<td>项目联系人</td>
-	<td>proContactNumber</td>
-	<td>项目联系电话</td>
-</tr>
-<tr>
-	<td>bidEntAddress</td>
-	<td>招标单位地址</td>
-	<td>bidEntContact</td>
-	<td>招标单位联系方式</td>
-</tr>
-<tr>
-	<td>agencyName</td>
-	<td>代理机构名称</td>
-	<td>agencyAddress</td>
-	<td>代理机构地址</td>
-</tr>
-<tr>
-	<td>agencyContact</td>
-	<td>代理机构联系方式</td>
-	<td>mainText</td>
-	<td>正文</td>
-</tr>
-<tr>
-  <td>beDescription</td>
-  <td>失信被执行人行为具体情形</td>
-  <td>unitExecution</td>
-  <td>做出执行依据单位</td>
-</tr>
-<tr>
-  <td>courtName</td>
-  <td>法院</td>
-  <td>caseName</td>
-  <td>案件名称</td>
-</tr>
-<tr>
-  <td>refereeDate</td>
-  <td>裁判日期</td>
-  <td>noticeType</td>
-  <td>公告类型</td>
-</tr>
-<tr>
-  <td>noticePeople</td>
-  <td>公告人</td>
-  <td>litigant</td>
-  <td>当事人</td>
-</tr>
-<tr>
-  <td>wrDecisionNo</td>
-  <td>决定书文号</td>
-  <td>punishContent</td>
-  <td>环境违法事实和证据</td>
-</tr>
-<tr>
-  <td>punishResult</td>
-  <td>处罚结果</td>
-  <td>penaltyDate</td>
-  <td>处罚日期</td>
-</tr>
-<tr>
-  <td>moCategory</td>
-  <td>监控类别</td>
-  <td>admAreaCode</td>
-  <td>行政区域代码</td>
-</tr>
-<tr>
-  <td>legalPersonCode</td>
-  <td>法人代码</td>
-  <td>date</td>
-  <td>日期</td>
-</tr>
-<tr>
-  <td>brIntroductd</td>
-  <td>情况简述</td>
-  <td>exProblems</td>
-  <td>存在问题</td>
-</tr>
-<tr>
-  <td>treSituation</td>
-  <td>处理情况</td>
-  <td>nextMeasures</td>
-  <td>下步措施</td>
-</tr>
-<tr>
-  <td>situation</td>
-  <td>主要违法事实、相关法律依据及税务处理处罚情况</td>
-  <td>natureOfCase</td>
-  <td>案件性质</td>
-</tr>
-<tr>
-  <td>newBalance</td>
-  <td>当前新发生的欠税余额</td>
-  <td>approvalPeriod</td>
-  <td>认定期</td>
-</tr>
-<tr>
-  <td>puReason</td>
-  <td>处罚事由</td>
-  <td>effectiveDate</td>
-  <td>处罚生效日期</td>
-</tr>
-<tr>
-  <td>noticeNo</td>
-  <td>公告号</td>
-  <td>nominalName</td>
-  <td>标称生产企业名称/标称产品名称</td>
-</tr>
-<tr>
-  <td>samplingType</td>
-  <td>抽检类型</td>
-  <td>licenseName</td>
-  <td>许可证名称</td>
-</tr>
-<tr>
-  <td>licenseNo</td>
-  <td>许可证编号</td>
-  <td>approvalNo</td>
-  <td>批准文号</td>
-</tr>
-<tr>
-  <td>category</td>
-  <td>类别</td>
-  <td>approvalDate</td>
-  <td>批准日期</td>
-</tr>
-<tr>
-  <td>regNum</td>
-  <td>注册证号</td>
-  <td>cnProductName</td>
-  <td>产品名称(中文)</td>
-</tr>
-<tr>
-  <td>dateOfIssue</td>
-  <td>发证日期</td>
-  <td>recordNum</td>
-  <td>备案号</td>
-</tr>
-<tr>
-  <td>genericName</td>
-  <td>药品通用名称</td>
-  <td>filingDate</td>
-  <td>备案日期</td>
-</tr>
-<tr>
-  <td>acceptanceNum</td>
-  <td>受理号</td>
-  <td>drugName</td>
-  <td>药品名称</td>
-</tr>
-<tr>
-  <td>paMaturityDate</td>
-  <td>专利到期日或专利授权/公开日期</td>
-  <td>certificateNum</td>
-  <td>证书编号</td>
-</tr>
-<tr>
-  <td>cogSpecialty</td>
-  <td>认定专业</td>
-  <td>atDate</td>
-  <td>认证日期</td>
-</tr>
-<tr>
-  <td>atInfoName</td>
-  <td>认证信息名称</td>
-  <td>atNum</td>
-  <td>认证编号</td>
-</tr>
-<tr>
-  <td>regAtNum</td>
-  <td>注册证号</td>
-  <td>cultivarName</td>
-  <td>品种名称</td>
-</tr>
-<tr>
-  <td>documentNo</td>
-  <td>批件号</td>
-  <td>cerCopiesNum</td>
-  <td>证书份数</td>
-</tr>
-<tr>
-  <td>proVarietieNum</td>
-  <td>保护品种编号</td>
-  <td>proLevel</td>
-  <td>保护级别</td>
-</tr>
-<tr>
-  <td>proTerm</td>
-  <td>保护期限</td>
-  <td>regCertificateNum</td>
-  <td>注册证编号</td>
-</tr>
-<tr>
-  <td>prjNum</td>
-  <td>项目序号</td>
-  <td>prjName</td>
-  <td>项目名称</td>
-</tr>
-<tr>
-  <td>approvalDate</td>
-  <td>认可日期</td>
-  <td>adApprovalNo</td>
-  <td>广告批准文号</td>
-</tr>
-<tr>
-  <td>adReleaseCon</td>
-  <td>广告发布内容</td>
-  <td>adConType</td>
-  <td>广告内容类型</td>
-</tr>
-<tr>
-  <td>admNoticeNum</td>
-  <td>总局通告号</td>
-  <td>adProductName</td>
-  <td>广告中标识产品名称</td>
-</tr>
-<tr>
-  <td>illegalCon</td>
-  <td>违法内容简述</td>
-  <td>admNoticeDate</td>
-  <td>总局通告时间</td>
-</tr>
-<tr>
-  <td>域名</td>
-  <td>domainName</td>
-  <td>warningReason</td>
-  <td>预警原因</td>
-</tr>
-<tr>
-	<td>vehicleName</td>
-	<td>车型名称</td>
-	<td>modelYear</td>
-	<td>年款</td>
-</tr>
-<tr>
-	<td>defectDescription</td>
-	<td>缺陷描述</td>
-	<td>producerName</td>
-	<td>生产者名称</td>
-</tr>
-<tr>
-	<td>recalTtotal</td>
-	<td>召回总数量</td>
-	<td>modelSeries</td>
-	<td>车型系列</td>
-</tr>
-<tr>
-	<td>recallQuantity</td>
-	<td>召回数量</td>
-	<td>productionDate</td>
-	<td>生产日期范围</td>
-</tr>
-<tr>
-	<td>vinRange</td>
-	<td>VIN码范围（不连续）</td>
-	<td>remedialMeasures</td>
-	<td>缺陷补救措施 </td>
-</tr>
-<tr>
-	<td>disposalMethod</td>
-	<td>应急处置方法</td>
-	<td>schedule</td>
-	<td>召回日程安排</td>
-</tr>
-<tr>
-	<td>userScheme</td>
-	<td>通知用户方案</td>
-	<td>otherInformation</td>
-	<td>其他信息</td>
-</tr>
-<tr>
-	<td>modelSeries</td>
-	<td>车型系列</td>
-	<td>fullText</td>
-	<td>全文</td>
-</tr>
-<tr>
-	<td>businessAdd</td>
-	<td>营业地址</td>
-	<td>personInCharge</td>
-	<td>单位负责人</td>
-</tr>
-<tr>
-	<td>partyPost</td>
-	<td>当事人职务</td>
-	<td>address</td>
-	<td>住址</td>
-</tr>
-<tr>
-	<td>punishText</td>
-	<td>行政处罚决定书全文</td>
-	<td>documentNum</td>
-	<td>文号</td>
-</tr>
-<tr>
-	<td>financeName</td>
-	<td>名称</td>
-	<td>publishingOrgan</td>
-	<td>发布机关</td>
-</tr>
-<tr>
-	<td>dispatchDate</td>
-	<td>发文日期</td>
-	<td>indexQuotes</td>
-	<td>索引号</td>
-</tr>
-<tr>
-	<td>publishingOrg</td>
-	<td>发布机构</td>
-	<td>takeObligation</td>
-  	<td>生效法律文书确定的义务</td>
-</tr>
-<tr>
-	<td>idCard</td>
-        <td>身份证号码/组织机构代码</td>
-	<td>decDocument</td>
-	<td>决定文书</td>
-</tr>
-<tr>
-	<td>illegalFacts</td>
-	<td>主要违法违规事实（案由）</td>
-	<td>admPenalDecision</td>
-	<td>行政处罚决定</td>
-</tr>
-<tr>
-	<td>decisionDate</td>
-	<td>处罚决定日期</td>
-	<td>productName</td>
-	<td>项目名称</td>
-</tr>
-<tr>
-	<td>admDeciDepartment</td>
-	<td>行政决定部门</td>
-	<td>admDecisCategory</td>
-	<td>行政决定类别</td>
-</tr>
-<tr>
-	<td>setBasis</td>
-	<td>设定依据</td>
-	<td>admCategory</td>
-	<td>行政相对人类别</td>
-</tr>
-<tr>
-	<td>penaltyNum</td>
-	<td>行政处罚决定书文号</td>
-	<td>bepunishedName</td>
-	<td>被处罚当事人姓名或名称</td>
-</tr>
-<tr>
-	<td>violationFacts</td>
-	<td>主要违法违规事实（案由）</td>
-	<td>punishmentBasis</td>
-	<td>行政处罚依据</td>
-</tr>
-<tr>
-	<td>penaltyDecision</td>
-	<td>行政处罚决定</td>
-	<td>organizationName</td>
-	<td>作出处罚决定的机关名称</td>
-</tr>
-<tr>
-	<td>abstractTit</td>
-	<td>摘要标题</td>
-	<td>publicityDate</td>
-	<td>公开（公告）日</td>
-</tr> 
-<tr>
-	<td>applyTime</td>
-	<td>申请时间</td>
-	<td>type </td>
-	<td>分类</td>
-</tr>
-<tr>
-	<td>worksTitle</td>
-	<td>作品标题</td>
-	<td>sfName</td>
-	<td>软件名称</td>
-</tr> 
-<tr>
-  <td>beName</td>
-  <td>被执行人姓名</td>
-  <td>gender</td>
-  <td>性别</td>
-</tr>
-<tr>
-  <td>idCard</td>
-  <td>身份证号码/组织机构代码</td>
-  <td>age</td>
-  <td>年龄</td>
-</tr>
-<tr>
-	<td>legalRepresentative</td>
-	<td>法定代表人</td>
-	<td>approvalDate</td>
-	<td>核准日期</td>
-</tr>
-<tr>
-	<td>regStatus</td>
-	<td>登记状态</td>
-	<td>residence</td>
-	<td>住所</td>
-</tr>
-<tr>
-	<td>investWay</td>
-	<td>出资方式</td>
-	<td>investAmount</td>
-	<td>出资额</td>
-</tr>
-<tr>
-	<td>investDate</td>
-	<td>出资日期</td>
-	<td>shareholderType</td>
-	<td>股东类型</td>
-</tr>
-<tr>
-	<td>punishDate</td>
-	<td>作出处罚决定的日期</td>
-	<td>customsName</td>
-	<td>海关名称</td>
-</tr>
-<tr>
-	<td>puCustomsName</td>
-	<td>作出处罚决定的海关名称</td>
-	<td>cusRegistrationNum</td>
-	<td>海关注册编号</td>
-</tr>
-<tr>
-	<td>penaltyDate</td>
-	<td>行政处罚作出日期</td>
-	<td>penaltyText</td>
-	<td>处罚决定书全文</td>
-</tr>
-<tr>
-	<td>monthly</td>
-	<td>月度</td>
-	<td>commodityName</td>
-	<td>商品名称</td>
-</tr>
-<tr>
-	<td>deliveryPlace</td>
-	<td>收发货地</td>
-	<td>usdAmount</td>
-	<td>金额(USD)</td>
-</tr>
-<tr>
-	<td>countryOrigin</td>
-	<td>出口最终国或进口原产国</td>
-	<td>tradeMode</td>
-	<td>贸易方式</td>
-</tr>
-<tr>
-	<td>shippingType</td>
-	<td>运输方式</td>
-	<td>transitCountry</td>
-	<td>中转国</td>
-</tr>
-<tr>
-	<td>quantityUnit</td>
-	<td>数量单位</td>
-	<td>entPostcode</td>
-	<td>企业邮编</td>
-</tr>
-<tr>
-	<td>entFax</td>
-	<td>企业传真</td>
-	<td>email</td>
-	<td>电子邮件</td>
-</tr>
-<tr>
-	<td>contacts</td>
-	<td>联系人</td>
-	<td>entType</td>
-	<td>企业性质</td>
-</tr>
-<tr>
-	<td>entAddress</td>
-	<td>企业详细地址</td>
-	<td>proCities</td>
-	<td>省市</td>
-</tr>
-<tr>             
-	<td>appDate</td>
-	<td>申请日</td>              
-	<td>publicNum</td>
-	<td>公开（公告）号</td>
-</tr>
-<tr>                
-	<td>classificationNum</td>
-	<td>分类号</td>                
-	<td>priority</td>
-	<td>优先权</td>
-</tr>
-<tr>                
-	<td>inventor</td>
-	<td>发明（设计）人</td>                
-	<td>agent</td>
-	<td>代理人</td>
-</tr>
-<tr>                
-	<td>legalStatus</td>
-	<td>最新法律状态</td>                
-	<td>intApplication</td>
-	<td>国际申请</td>
-</tr>
-<tr>                
-	<td>intPublication</td>
-	<td>国际公布</td>   
-	<td>permitContent</td>
-	<td>许可内容</td>  
-</tr>
-<tr>
-	<td>punishType</td>
-	<td>处罚类型</td>
-	<td>notificationTime</td>
-	<td>通报时间</td>
-</tr>
-<tr>
-	<td>supervisionLevel</td>
-	<td>督办级别</td>
-	<td>supervisionOrgan</td>
-	<td>督办单位</td>
-</tr>
-<tr>
-	<td>majorSolution</td>
-	<td>解决措施要点</td>
-	<td>solutionDeadline</td>
-	<td>解决时限</td>
-</tr>
-<tr>
-	<td>spotCheckDate</td>
-	<td>抽查检查日期</td>
-	<td>spotCheckType</td>
-	<td>抽查检查类型</td>
-</tr>
-<tr>
-	<td>spotCheckAuth</td>
-	<td>抽查检查机关</td>
-	<td>spotCheckResult</td>
-	<td>抽查检查结果</td>
-</tr>
-<tr>
-        <td>closingDate</td>
-        <td>截止日期</td>
-        <td>penaltyOrgan</td>
-        <td>处罚机关</td>
-</tr>
-<tr>
-	<td>noticeNumber</td>
-	<td>执行通知书文号</td>
-	<td>consultationNumber</td>
-	<td>执行裁定书文号</td>
-</tr>
-<tr>
-	<td>enforceCourt</td>
-	<td>执行法院</td>
-	<td>excutedPerson</td>
-	<td>被执行人</td>
-</tr>
-<tr>
-    <td>equityInterestsAmount</td>
-    <td>持有股权、其它投资权益的数额</td>
-    <td>lisenceType</td>
-    <td>证照种类</td>
-</tr>
-<tr>
-    <td>lisenceNumber</td>
-    <td>证照号码</td>
-    <td>typeStatus</td>
-    <td>类型/状态</td>
-</tr>
-<tr>             
-	<td>appDate</td>
-	<td>申请日</td>              
-	<td>publicNum</td>
-	<td>公开（公告）号</td>
-</tr>
-<tr>                
-	<td>classificationNum</td>
-	<td>分类号</td>                
-	<td>priority</td>
-	<td>优先权</td>
-</tr>
-<tr>                
-	<td>inventor</td>
-	<td>发明（设计）人</td>                
-	<td>agent</td>
-	<td>代理人</td>
-</tr>
-<tr>                
-	<td>legalStatus</td>
-	<td>最新法律状态</td>                
-	<td>intApplication</td>
-	<td>国际申请</td>
-</tr>
-<tr>                
-	<td>intPublication</td>
-	<td>国际公布</td>
-	<td>brandName</td>
-	<td>商标名称</td>                             
-</tr>
-<tr>                
-	<td>trademarkType</td>
-	<td>商标分类</td>
-	<td>trademarkState</td>
-	<td>商标状态</td>                             
-</tr>
-<tr>                
-	<td>applicationDate</td>
-	<td>申请日期</td>
-	<td>commodityList</td>
-	<td>商品/服务列表</td>                             
-</tr>
-<tr>
-	<td>particularYear</td>
-	<td>年份</td>
-	<td>titleName</td>
-	<td>文章标题</td>
-</tr>
-<tr>
-	<td>infoImg</td>
-	<td>信息图片</td>
-	<td>articleCon</td>
-	<td>文章内容</td>
-</tr>
-<tr>
-	<td>articleSource</td>
-	<td>文章来源</td>
-	<td>articleTime</td>
-	<td>文章时间</td>
-</tr>
-<tr>
-    <td>nominalAddress</td>
-    <td>标称生产企业地址</td>
-    <td>unitName</td>
-    <td>被抽样单位名称</td>
-</tr>
-<tr>
-    <td>remarks</td>
-    <td>备注</td>
-    <td>sampledPrj</td>
-    <td>抽检项目</td>
-</tr>
-<tr>
-	<td>guranteeDebtAmount</td>
-	<td>被担保债权数额</td>
-	<td>mortageStatus</td>
-	<td>抵押状态</td>
-</tr>
-<tr>
-	<td>publicityDate</td>
-	<td>公示日期</td>
-	<td>mortgageeName</td>
-	<td>抵押权人名称</td>
-</tr>
-<tr>
-	<td>pledgedStockAmount</td>
-	<td>出质股权数额</td>
-	<td>mortgageResidence</td>
-	<td>动产抵押住所地</td>
-</tr>
-<tr>
-	<td>mortgageAmount</td>
-	<td>动产抵押数额</td>
-	<td>guaranteeScope</td>
-	<td>担保的范围</td>
-</tr>
-<tr>
-	<td>debtTerm</td>
-	<td>履行债务期限</td>
-	<td>ownership</td>
-	<td>所有权或使用权归属</td>
-</tr>
-<tr>
-	<td>quantityQualityStatusLocation</td>
-	<td>数量、质量、状况、所在地等情况</td>
-	<td>withdrawReason</td>
-	<td>注销原因</td>
-</tr>
-<tr>
-	<td>withdrawDate</td>
-	<td>注销日期</td>
-	<td>pledgor</td>
-	<td>出质人</td>
-</tr>
-<tr>
-	<td>pledgee</td>
-	<td>质权人</td>
-	<td>ipName</td>
-	<td>知识产权名称</td>
-</tr>
-<tr>                
-	<td>classificationWork</td>
-	<td>作品分类</td>
-	<td>obligee</td>
-	<td>权利人</td>                             
-</tr>
-<tr>                
-	<td>creativeNature</td>
-	<td>创作性质</td>
-	<td>author</td>
-	<td>作者</td>                             
-</tr>
-<tr>                
-	<td>completionTime</td>
-	<td>创作完成时间</td>
-	<td>ownershipMode</td>
-	<td>权利归属方式</td>                             
-</tr>
-<tr>                
-	<td>publicationPlace</td>
-	<td>首次发表地点</td>
-	<td>publicationDate</td>
-	<td>首次发表日期</td>                             
-</tr>
-<tr>                
-	<td>versionNum</td>
-	<td>版本号</td>
-	<td>classificNum</td>
-	<td>分类号</td>                             
-</tr>
-<tr>                
-	<td>worksType</td>
-	<td>作品分类</td>
-	<td>palceRange</td>
-	<td>地域范围</td>                             
-</tr>
-<tr>                
-	<td>authorization</td>
-	<td>永久转让或授权</td>
-	<td>genericClass</td>
-	<td>所属类</td>                             
-</tr>
+	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
+	<tr>
+		<td>entName</td>
+		<td>公司名称</td>
+		<td>entAddress</td>
+		<td>企业地址</td>
+	</tr>
+	<tr>
+		<td>entBaseInfo</td>
+		<td>企业基本信息</td>
+		<td>appNumber</td>
+		<td>申请号 </td>
+	</tr>
+	<tr>
+		<td>applicant</td>
+		<td>申请人</td>
+		<td>businessScope</td>
+		<td>经营范围 </td>
+	</tr>
+	<tr>
+		<td>documentType</td>
+		<td>证件类型</td>
+		<td>changeDate</td>
+		<td>变更日期 </td>
+	</tr>
+	<tr>
+		<td>changeItem</td>
+		<td>变更事项 </td>
+		<td>entTel</td>
+		<td>总台电话 </td>
+	</tr>
+	<tr>
+		<td>isMarket</td>
+		<td>是否上市（是/否） </td>
+		<td>legalPerson</td>
+		<td>法人代表 </td>
+	</tr>
+	<tr>
+		<td>regAsset</td>
+		<td>注册资本 </td>
+		<td>moneyCurrency</td>
+		<td>注册资本币种  </td>
+	</tr>
+	<tr>
+		<td>societyCode</td>
+		<td>统一社会信用代码 </td>
+		<td>entType</td>
+		<td>企业类型 </td>
+	</tr>
+	<tr>
+		<td>entUrl</td>
+		<td>企业网址 </td>
+		<td>usedName</td>
+		<td>曾用名  </td>
+	</tr>
+	<tr>
+		<td>registerDate</td>
+		<td>成立日期  </td>
+		<td>registerOrganization</td>
+		<td>登记机关  </td>
+	</tr>
+	<tr>
+		<td>entId</td>
+		<td>主体企业id </td>
+		<td>holdingQuantity</td>
+		<td>持股数量  </td>
+	</tr>
+	<tr>
+		<td>shareholderName</td>
+		<td>股东名称 </td>
+		<td>proportionTotal</td>
+		<td>持股比例 </td>
+	</tr>
+	<tr>
+		<td>reportDate</td>
+		<td>截止时间 </td>
+		<td>shareType</td>
+		<td>股份性质 </td>
+	</tr>
+	<tr>
+		<td>attention</td>
+		<td>是否关注 </td>
+		<td>entShortName</td>
+		<td>企业简称 </td>
+	</tr>
+	<tr>
+		<td>inTime</td>
+		<td>录入时间 </td>
+		<td>executeResult</td>
+		<td>被执行人的履行情况  </td>
+	</tr>
+	<tr>
+		<td>park</td>
+		<td>园区 </td>
+		<td>ownedstreet</td>
+		<td>所属街道 </td>
+	</tr>
+	<tr>
+		<td>officeBuilding</td>
+		<td>写字楼 </td>
+		<td>income</td>
+		<td>营业收入 </td>
+	</tr>
+	<tr>
+		<td>personnelScale</td>
+		<td>人员规模 </td>
+		<td>patent</td>
+		<td>专利 </td>
+	</tr>
+	<tr>
+		<td>branch</td>
+		<td>分公司 </td>
+		<td>trademark</td>
+		<td>商标 </td>
+	</tr>
+	<tr>
+		<td>administrativeSanction</td>
+		<td>行政处罚 </td>
+		<td>copyright</td>
+		<td>著作权 </td>
+	</tr>
+	<tr>
+		<td>subscription</td>
+		<td>认缴额 </td>
+		<td>paidAmount</td>
+		<td>实缴额 </td>
+	</tr>
+	<tr>
+		<td>changeAfter</td>
+		<td>变更后内容  </td>
+		<td>changeBefore</td>
+		<td>变跟前内容  </td>
+	</tr>
+	<tr>
+		<td>changeItem</td>
+		<td>变更事项  </td>
+		<td>inputOrganization</td>
+		<td> 作出决定机关（列入） </td>
+	</tr>
+	<tr>
+		<td>inputReason</td>
+		<td>列入经营异常名录原因 </td>
+		<td>licensingAuthority</td>
+		<td>许可机关 </td>
+	</tr>
+	<tr>
+		<td>termOfValidityStart</td>
+		<td>有效期(起)</td>
+		<td>termOfValidityEnd</td>
+		<td>有效期(止)</td>
+	</tr>
+	<tr>
+		<td>termOfValidity</td>
+		<td>有效期 </td>
+		<td>abstract</td>
+		<td>摘要 </td>
+	</tr>
+	<tr>
+		<td>patentType</td>
+		<td>专利类型 </td>
+		<td>state</td>
+		<td>状态 </td>
+	</tr>
+	<tr>
+		<td>round</td>
+		<td>轮次 </td>
+		<td>recruitmentPosition</td>
+		<td>招聘岗位 </td>
+	</tr>
+	<tr>
+		<td>workingPlace</td>
+		<td>工作地点 </td>
+		<td>salary</td>
+		<td>月薪 </td>
+	</tr>
+	<tr>
+		<td>taxesTaxes</td>
+		<td>欠税税种 </td>
+		<td>balance</td>
+		<td>欠税余额 </td>
+	</tr>
+	<tr>
+		<td>collection</td>
+		<td>收藏 </td>
+		<td>record</td>
+		<td>记录 </td>
+	</tr>
+	<tr>
+		<td>regNumber</td>
+		<td>注册号</td>
+		<td>regDate</td>
+		<td>注册时间 </td>
+	</tr>
+	<tr>
+		<td>operateStart</td>
+		<td>经营期限(起)</td>
+		<td>operateEnd</td>
+		<td>经营期限(止) </td>
+	</tr>
+	<tr>
+		<td>regAuthority</td>
+		<td>登机机关</td>
+		<td>party</td>
+		<td>当事人</td>
+	</tr>
+	<tr>
+		<td>executionTarget</td>
+		<td>执行标的</td>
+		<td>executionCourt</td>
+		<td>执行法院 </td>
+	</tr>
+	<tr>
+		<td>filingTime</td>
+		<td>立案时间</td>
+		<td>productName</td>
+		<td>产品名称 </td>
+	</tr>
+	<tr>
+		<td>productLevel</td>
+		<td>产品等级</td>
+		<td>specifications</td>
+		<td>规格型号</td>
+	</tr>
+	<tr>
+		<td>manufactureDate</td>
+		<td>生产日期/批号</td>
+		<td>checkResult</td>
+		<td>抽查结果</td>
+	</tr>
+	<tr>
+		<td>nonconProject</td>
+		<td>主要不合格项目</td>
+		<td>approvalInstitution</td>
+		<td>承检机构</td>
+	</tr>
+	<tr>
+		<td>investedEnt</td>
+		<td>被投企业</td>
+		<td>investAmount</td>
+		<td>投资金额</td>
+	</tr>
+	<tr>
+		<td>round</td>
+		<td>轮次</td>
+		<td>investDate</td>
+		<td>投资时间</td>
+	</tr>
+	<tr>
+		<td>investInfo</td>
+		<td>投资信息</td>
+		<td>entShorthand</td>
+		<td>企业简称</td>
+	</tr>
+	<tr>
+		<td>investor</td>
+		<td>投资方</td>
+		<td>industry</td>
+		<td>行业</td>
+	</tr>
+	<tr>
+		<td>stockRight</td>
+		<td>股权</td>
+		<td>investRound</td>
+		<td>投资轮次</td>
+	</tr>
+	<tr>
+		<td>area</td>
+		<td>地区</td>
+		<td> tradeTarget</td>
+		<td>交易标的</td>
+	</tr>
+	<tr>
+		<td>mergeWay</td>
+		<td>并购方式</td>
+		<td> tradeAmount</td>
+		<td>交易金额</td>
+	</tr>
+	<tr>
+		<td>announceDate</td>
+		<td>公告日期</td>
+		<td>hsCode</td>
+		<td>HS编码</td>
+	</tr>
+	<tr>
+		<td>inspectionNum</td>
+		<td>报检单号</td>
+		<td>productName</td>
+		<td>产品名称</td>
+	</tr>
+	<tr>
+		<td>originPlace</td>
+		<td>产地</td>
+		<td>manufacturerNum</td>
+		<td>制造商名称及注册编号</td>
+	</tr>
+	<tr>
+		<td>importerNum</td>
+		<td>进口商名称及注册编号</td>
+		<td>weight</td>
+		<td>重量（千克）</td>
+	</tr>
+	<tr>
+		<td>notpermittedFacts</td>
+		<td>未予准入的事实</td>
+		<td>measuresIfication</td>
+		<td>处理措施分类</td>
+	</tr>
+	<tr>
+		<td>entryPort</td>
+		<td>进境口岸</td>
+		<td>targetObtainer</td>
+		<td>标的获得方</td>
+	</tr>
+	<tr>
+		<td>targetTransferor</td>
+		<td>标的出让方</td>
+		<td>lastestSchedule</td>
+		<td>最新进度</td>
+	</tr>
+	<tr>
+		<td>tradeGoal</td>
+		<td>交易目的</td>
+		<td>currency</td>
+		<td>币种</td>
+	</tr>
+	<tr>
+		<td>targetType</td>
+		<td>标的类型</td>
+		<td>equityTradingRatio</td>
+		<td>股权交易比例</td>
+	</tr>
+	<tr>
+		<td>obtainerFinalRadio</td>
+		<td>获得方最终持有比例</td>
+		<td>tartgetIndustry</td>
+		<td>标的行业</td>
+	</tr>
+	<tr>
+		<td>targetDetail</td>
+		<td>标的详情</td>
+		<td>firstAnnounceDate</td>
+		<td>首次公告日期</td>
+	</tr>
+	<tr>
+		<td>tradeDate</td>
+		<td>交易日期</td>
+		<td>overseaMerge</td>
+		<td>是否海外并购</td>
+	</tr>
+	<tr>
+		<td>tradeIntro</td>
+		<td>交易简介</td>
+		<td>bidName</td>
+		<td>招标名称</td>
+	</tr>
+	<tr>
+		<td>itemType</td>
+		<td>品目</td>
+		<td>bidEnt</td>
+		<td>招标单位</td>
+	</tr>
+	<tr>
+		<td>releaseDate</td>
+		<td>发布时间</td>
+		<td>admArea</td>
+		<td>行政区域</td>
+	</tr>
+	<tr>
+		<td>province</td>
+		<td>省份</td>
+		<td>bidPublicityType</td>
+		<td>招投标公告类型</td>
+	</tr>
+	<tr>
+		<td>proContact</td>
+		<td>项目联系人</td>
+		<td>proContactNumber</td>
+		<td>项目联系电话</td>
+	</tr>
+	<tr>
+		<td>bidEntAddress</td>
+		<td>招标单位地址</td>
+		<td>bidEntContact</td>
+		<td>招标单位联系方式</td>
+	</tr>
+	<tr>
+		<td>agencyName</td>
+		<td>代理机构名称</td>
+		<td>agencyAddress</td>
+		<td>代理机构地址</td>
+	</tr>
+	<tr>
+		<td>agencyContact</td>
+		<td>代理机构联系方式</td>
+		<td>mainText</td>
+		<td>正文</td>
+	</tr>
+	<tr>
+		<td>beDescription</td>
+		<td>失信被执行人行为具体情形</td>
+		<td>unitExecution</td>
+		<td>做出执行依据单位</td>
+	</tr>
+	<tr>
+		<td>courtName</td>
+		<td>法院</td>
+		<td>caseName</td>
+		<td>案件名称</td>
+	</tr>
+	<tr>
+		<td>refereeDate</td>
+		<td>裁判日期</td>
+		<td>noticeType</td>
+		<td>公告类型</td>
+	</tr>
+	<tr>
+		<td>noticePeople</td>
+		<td>公告人</td>
+		<td>litigant</td>
+		<td>当事人</td>
+	</tr>
+	<tr>
+		<td>wrDecisionNo</td>
+		<td>决定书文号</td>
+		<td>punishContent</td>
+		<td>环境违法事实和证据</td>
+	</tr>
+	<tr>
+		<td>punishResult</td>
+		<td>处罚结果</td>
+		<td>penaltyDate</td>
+		<td>处罚日期</td>
+	</tr>
+	<tr>
+		<td>moCategory</td>
+		<td>监控类别</td>
+		<td>admAreaCode</td>
+		<td>行政区域代码</td>
+	</tr>
+	<tr>
+		<td>legalPersonCode</td>
+		<td>法人代码</td>
+		<td>date</td>
+		<td>日期</td>
+	</tr>
+	<tr>
+		<td>brIntroductd</td>
+		<td>情况简述</td>
+		<td>exProblems</td>
+		<td>存在问题</td>
+	</tr>
+	<tr>
+		<td>treSituation</td>
+		<td>处理情况</td>
+		<td>nextMeasures</td>
+		<td>下步措施</td>
+	</tr>
+	<tr>
+		<td>situation</td>
+		<td>主要违法事实、相关法律依据及税务处理处罚情况</td>
+		<td>natureOfCase</td>
+		<td>案件性质</td>
+	</tr>
+	<tr>
+		<td>newBalance</td>
+		<td>当前新发生的欠税余额</td>
+		<td>approvalPeriod</td>
+		<td>认定期</td>
+	</tr>
+	<tr>
+		<td>puReason</td>
+		<td>处罚事由</td>
+		<td>effectiveDate</td>
+		<td>处罚生效日期</td>
+	</tr>
+	<tr>
+		<td>noticeNo</td>
+		<td>公告号</td>
+		<td>nominalName</td>
+		<td>标称生产企业名称/标称产品名称</td>
+	</tr>
+	<tr>
+		<td>samplingType</td>
+		<td>抽检类型</td>
+		<td>licenseName</td>
+		<td>许可证名称</td>
+	</tr>
+	<tr>
+		<td>licenseNo</td>
+		<td>许可证编号</td>
+		<td>approvalNo</td>
+		<td>批准文号</td>
+	</tr>
+	<tr>
+		<td>category</td>
+		<td>类别</td>
+		<td>approvalDate</td>
+		<td>批准日期</td>
+	</tr>
+	<tr>
+		<td>regNum</td>
+		<td>注册证号</td>
+		<td>cnProductName</td>
+		<td>产品名称(中文)</td>
+	</tr>
+	<tr>
+		<td>dateOfIssue</td>
+		<td>发证日期</td>
+		<td>recordNum</td>
+		<td>备案号</td>
+	</tr>
+	<tr>
+		<td>genericName</td>
+		<td>药品通用名称</td>
+		<td>filingDate</td>
+		<td>备案日期</td>
+	</tr>
+	<tr>
+		<td>acceptanceNum</td>
+		<td>受理号</td>
+		<td>drugName</td>
+		<td>药品名称</td>
+	</tr>
+	<tr>
+		<td>paMaturityDate</td>
+		<td>专利到期日或专利授权/公开日期</td>
+		<td>certificateNum</td>
+		<td>证书编号</td>
+	</tr>
+	<tr>
+		<td>cogSpecialty</td>
+		<td>认定专业</td>
+		<td>atDate</td>
+		<td>认证日期</td>
+	</tr>
+	<tr>
+		<td>atInfoName</td>
+		<td>认证信息名称</td>
+		<td>atNum</td>
+		<td>认证编号</td>
+	</tr>
+	<tr>
+		<td>regAtNum</td>
+		<td>注册证号</td>
+		<td>cultivarName</td>
+		<td>品种名称</td>
+	</tr>
+	<tr>
+		<td>documentNo</td>
+		<td>批件号</td>
+		<td>cerCopiesNum</td>
+		<td>证书份数</td>
+	</tr>
+	<tr>
+		<td>proVarietieNum</td>
+		<td>保护品种编号</td>
+		<td>proLevel</td>
+		<td>保护级别</td>
+	</tr>
+	<tr>
+		<td>proTerm</td>
+		<td>保护期限</td>
+		<td>regCertificateNum</td>
+		<td>注册证编号</td>
+	</tr>
+	<tr>
+		<td>prjNum</td>
+		<td>项目序号</td>
+		<td>prjName</td>
+		<td>项目名称</td>
+	</tr>
+	<tr>
+		<td>approvalDate</td>
+		<td>认可日期</td>
+		<td>adApprovalNo</td>
+		<td>广告批准文号</td>
+	</tr>
+	<tr>
+		<td>adReleaseCon</td>
+		<td>广告发布内容</td>
+		<td>adConType</td>
+		<td>广告内容类型</td>
+	</tr>
+	<tr>
+		<td>admNoticeNum</td>
+		<td>总局通告号</td>
+		<td>adProductName</td>
+		<td>广告中标识产品名称</td>
+	</tr>
+	<tr>
+		<td>illegalCon</td>
+		<td>违法内容简述</td>
+		<td>admNoticeDate</td>
+		<td>总局通告时间</td>
+	</tr>
+	<tr>
+		<td>域名</td>
+		<td>domainName</td>
+		<td>warningReason</td>
+		<td>预警原因</td>
+	</tr>
+	<tr>
+		<td>vehicleName</td>
+		<td>车型名称</td>
+		<td>modelYear</td>
+		<td>年款</td>
+	</tr>
+	<tr>
+		<td>defectDescription</td>
+		<td>缺陷描述</td>
+		<td>producerName</td>
+		<td>生产者名称</td>
+	</tr>
+	<tr>
+		<td>recalTtotal</td>
+		<td>召回总数量</td>
+		<td>modelSeries</td>
+		<td>车型系列</td>
+	</tr>
+	<tr>
+		<td>recallQuantity</td>
+		<td>召回数量</td>
+		<td>productionDate</td>
+		<td>生产日期范围</td>
+	</tr>
+	<tr>
+		<td>vinRange</td>
+		<td>VIN码范围（不连续）</td>
+		<td>remedialMeasures</td>
+		<td>缺陷补救措施 </td>
+	</tr>
+	<tr>
+		<td>disposalMethod</td>
+		<td>应急处置方法</td>
+		<td>schedule</td>
+		<td>召回日程安排</td>
+	</tr>
+	<tr>
+		<td>userScheme</td>
+		<td>通知用户方案</td>
+		<td>otherInformation</td>
+		<td>其他信息</td>
+	</tr>
+	<tr>
+		<td>modelSeries</td>
+		<td>车型系列</td>
+		<td>fullText</td>
+		<td>全文</td>
+	</tr>
+	<tr>
+		<td>businessAdd</td>
+		<td>营业地址</td>
+		<td>personInCharge</td>
+		<td>单位负责人</td>
+	</tr>
+	<tr>
+		<td>partyPost</td>
+		<td>当事人职务</td>
+		<td>address</td>
+		<td>住址</td>
+	</tr>
+	<tr>
+		<td>punishText</td>
+		<td>行政处罚决定书全文</td>
+		<td>documentNum</td>
+		<td>文号</td>
+	</tr>
+	<tr>
+		<td>financeName</td>
+		<td>名称</td>
+		<td>publishingOrgan</td>
+		<td>发布机关</td>
+	</tr>
+	<tr>
+		<td>dispatchDate</td>
+		<td>发文日期</td>
+		<td>indexQuotes</td>
+		<td>索引号</td>
+	</tr>
+	<tr>
+		<td>publishingOrg</td>
+		<td>发布机构</td>
+		<td>takeObligation</td>
+		<td>生效法律文书确定的义务</td>
+	</tr>
+
+	<tr>
+		<td>illegalFacts</td>
+		<td>主要违法违规事实（案由）</td>
+		<td>admPenalDecision</td>
+		<td>行政处罚决定</td>
+	</tr>
+	<tr>
+		<td>decisionDate</td>
+		<td>处罚决定日期</td>
+		<td>productName</td>
+		<td>项目名称</td>
+	</tr>
+	<tr>
+		<td>admDeciDepartment</td>
+		<td>行政决定部门</td>
+		<td>admDecisCategory</td>
+		<td>行政决定类别</td>
+	</tr>
+	<tr>
+		<td>setBasis</td>
+		<td>设定依据</td>
+		<td>admCategory</td>
+		<td>行政相对人类别</td>
+	</tr>
+	<tr>
+		<td>penaltyNum</td>
+		<td>行政处罚决定书文号</td>
+		<td>bepunishedName</td>
+		<td>被处罚当事人姓名或名称</td>
+	</tr>
+	<tr>
+		<td>violationFacts</td>
+		<td>主要违法违规事实（案由）</td>
+		<td>punishmentBasis</td>
+		<td>行政处罚依据</td>
+	</tr>
+	<tr>
+		<td>penaltyDecision</td>
+		<td>行政处罚决定</td>
+		<td>organizationName</td>
+		<td>作出处罚决定的机关名称</td>
+	</tr>
+	<tr>
+		<td>abstractTit</td>
+		<td>摘要标题</td>
+		<td>publicityDate</td>
+		<td>公开（公告）日</td>
+	</tr>
+	<tr>
+		<td>applyTime</td>
+		<td>申请时间</td>
+		<td>type </td>
+		<td>分类</td>
+	</tr>
+	<tr>
+		<td>worksTitle</td>
+		<td>作品标题</td>
+		<td>sfName</td>
+		<td>软件名称</td>
+	</tr>
+	<tr>
+		<td>beName</td>
+		<td>被执行人姓名</td>
+		<td>gender</td>
+		<td>性别</td>
+	</tr>
+	<tr>
+		<td>idCard</td>
+		<td>身份证号码/组织机构代码</td>
+		 <td>age</td>
+		 <td>年龄</td>
+	</tr>
+	<tr>
+		<td>legalRepresentative</td>
+		<td>法定代表人</td>
+		<td>approvalDate</td>
+		<td>核准日期</td>
+	</tr>
+	<tr>
+		<td>regStatus</td>
+		<td>登记状态</td>
+		<td>residence</td>
+		<td>住所</td>
+	</tr>
+	<tr>
+		<td>investWay</td>
+		<td>出资方式</td>
+		<td>investAmount</td>
+		<td>出资额</td>
+	</tr>
+	<tr>
+		<td>investDate</td>
+		<td>出资日期</td>
+		<td>shareholderType</td>
+		<td>股东类型</td>
+	</tr>
+	<tr>
+		<td>punishDate</td>
+		<td>作出处罚决定的日期</td>
+		<td>customsName</td>
+		<td>海关名称</td>
+	</tr>
+	<tr>
+		<td>puCustomsName</td>
+		<td>作出处罚决定的海关名称</td>
+		<td>cusRegistrationNum</td>
+		<td>海关注册编号</td>
+	</tr>
+	<tr>
+		<td>penaltyDate</td>
+		<td>行政处罚作出日期</td>
+		<td>penaltyText</td>
+		<td>处罚决定书全文</td>
+	</tr>
+	<tr>
+		<td>monthly</td>
+		<td>月度</td>
+		<td>commodityName</td>
+		<td>商品名称</td>
+	</tr>
+	<tr>
+		<td>deliveryPlace</td>
+		<td>收发货地</td>
+		<td>usdAmount</td>
+		<td>金额(USD)</td>
+	</tr>
+	<tr>
+		<td>countryOrigin</td>
+		<td>出口最终国或进口原产国</td>
+		<td>tradeMode</td>
+		<td>贸易方式</td>
+	</tr>
+	<tr>
+		<td>shippingType</td>
+		<td>运输方式</td>
+		<td>transitCountry</td>
+		<td>中转国</td>
+	</tr>
+	<tr>
+		<td>quantityUnit</td>
+		<td>数量单位</td>
+		<td>entPostcode</td>
+		<td>企业邮编</td>
+	</tr>
+	<tr>
+		<td>entFax</td>
+		<td>企业传真</td>
+		<td>email</td>
+		<td>电子邮件</td>
+	</tr>
+	<tr>
+		<td>contacts</td>
+		<td>联系人</td>
+		<td>entType</td>
+		<td>企业性质</td>
+	</tr>
+	<tr>
+		<td>entAddress</td>
+		<td>企业详细地址</td>
+		<td>proCities</td>
+		<td>省市</td>
+	</tr>
+	<tr>
+		<td>appDate</td>
+		<td>申请日</td>
+		<td>publicNum</td>
+		<td>公开（公告）号</td>
+	</tr>
+	<tr>
+		<td>classificationNum</td>
+		<td>分类号</td>
+		<td>priority</td>
+		<td>优先权</td>
+	</tr>
+	<tr>
+		<td>inventor</td>
+		<td>发明（设计）人</td>
+		<td>agent</td>
+		<td>代理人</td>
+	</tr>
+	<tr>
+		<td>legalStatus</td>
+		<td>最新法律状态</td>
+		<td>intApplication</td>
+		<td>国际申请</td>
+	</tr>
+	<tr>
+		<td>intPublication</td>
+		<td>国际公布</td>
+		<td>permitContent</td>
+		<td>许可内容</td>
+	</tr>
+	<tr>
+		<td>punishType</td>
+		<td>处罚类型</td>
+		<td>notificationTime</td>
+		<td>通报时间</td>
+	</tr>
+	<tr>
+		<td>supervisionLevel</td>
+		<td>督办级别</td>
+		<td>supervisionOrgan</td>
+		<td>督办单位</td>
+	</tr>
+	<tr>
+		<td>majorSolution</td>
+		<td>解决措施要点</td>
+		<td>solutionDeadline</td>
+		<td>解决时限</td>
+	</tr>
+	<tr>
+		<td>spotCheckDate</td>
+		<td>抽查检查日期</td>
+		<td>spotCheckType</td>
+		<td>抽查检查类型</td>
+	</tr>
+	<tr>
+		<td>spotCheckAuth</td>
+		<td>抽查检查机关</td>
+		<td>spotCheckResult</td>
+		<td>抽查检查结果</td>
+	</tr>
+	<tr>
+		<td>closingDate</td>
+		<td>截止日期</td>
+		<td>penaltyOrgan</td>
+		<td>处罚机关</td>
+	</tr>
+	<tr>
+		<td>noticeNumber</td>
+		<td>执行通知书文号</td>
+		<td>consultationNumber</td>
+		<td>执行裁定书文号</td>
+	</tr>
+	<tr>
+		<td>enforceCourt</td>
+		<td>执行法院</td>
+		<td>excutedPerson</td>
+		<td>被执行人</td>
+	</tr>
+	<tr>
+		<td>equityInterestsAmount</td>
+		<td>持有股权、其它投资权益的数额</td>
+		<td>lisenceType</td>
+		<td>证照种类</td>
+	</tr>
+	<tr>
+		<td>lisenceNumber</td>
+		<td>证照号码</td>
+		<td>typeStatus</td>
+		<td>类型/状态</td>
+	</tr>
+	<tr>
+		<td>appDate</td>
+		<td>申请日</td>
+		<td>publicNum</td>
+		<td>公开（公告）号</td>
+	</tr>
+	<tr>
+		<td>classificationNum</td>
+		<td>分类号</td>
+		<td>priority</td>
+		<td>优先权</td>
+	</tr>
+	<tr>
+		<td>inventor</td>
+		<td>发明（设计）人</td>
+		<td>agent</td>
+		<td>代理人</td>
+	</tr>
+	<tr>
+		<td>legalStatus</td>
+		<td>最新法律状态</td>
+		<td>intApplication</td>
+		<td>国际申请</td>
+	</tr>
+	<tr>
+		<td>intPublication</td>
+		<td>国际公布</td>
+		<td>brandName</td>
+		<td>商标名称</td>
+	</tr>
+	<tr>
+		<td>trademarkType</td>
+		<td>商标分类</td>
+		<td>trademarkState</td>
+		<td>商标状态</td>
+	</tr>
+	<tr>
+		<td>applicationDate</td>
+		<td>申请日期</td>
+		<td>commodityList</td>
+		<td>商品/服务列表</td>
+	</tr>
+	<tr>
+		<td>particularYear</td>
+		<td>年份</td>
+		<td>titleName</td>
+		<td>文章标题</td>
+	</tr>
+	<tr>
+		<td>infoImg</td>
+		<td>信息图片</td>
+		<td>articleCon</td>
+		<td>文章内容</td>
+	</tr>
+	<tr>
+		<td>articleSource</td>
+		<td>文章来源</td>
+		<td>articleTime</td>
+		<td>文章时间</td>
+	</tr>
+	<tr>
+		<td>nominalAddress</td>
+		<td>标称生产企业地址</td>
+		<td>unitName</td>
+		<td>被抽样单位名称</td>
+	</tr>
+	<tr>
+		<td>remarks</td>
+		<td>备注</td>
+		<td>sampledPrj</td>
+		<td>抽检项目</td>
+	</tr>
+	<tr>
+		<td>guranteeDebtAmount</td>
+		<td>被担保债权数额</td>
+		<td>mortageStatus</td>
+		<td>抵押状态</td>
+	</tr>
+	<tr>
+		<td>publicityDate</td>
+		<td>公示日期</td>
+		<td>mortgageeName</td>
+		<td>抵押权人名称</td>
+	</tr>
+	<tr>
+		<td>pledgedStockAmount</td>
+		<td>出质股权数额</td>
+		<td>mortgageResidence</td>
+		<td>动产抵押住所地</td>
+	</tr>
+	<tr>
+		<td>mortgageAmount</td>
+		<td>动产抵押数额</td>
+		<td>guaranteeScope</td>
+		<td>担保的范围</td>
+	</tr>
+	<tr>
+		<td>debtTerm</td>
+		<td>履行债务期限</td>
+		<td>ownership</td>
+		<td>所有权或使用权归属</td>
+	</tr>
+	<tr>
+		<td>quantityQualityStatusLocation</td>
+		<td>数量、质量、状况、所在地等情况</td>
+		<td>withdrawReason</td>
+		<td>注销原因</td>
+	</tr>
+	<tr>
+		<td>withdrawDate</td>
+		<td>注销日期</td>
+		<td>pledgor</td>
+		<td>出质人</td>
+	</tr>
+	<tr>
+		<td>pledgee</td>
+		<td>质权人</td>
+		<td>ipName</td>
+		<td>知识产权名称</td>
+	</tr>
+	<tr>
+		<td>classificationWork</td>
+		<td>作品分类</td>
+		<td>obligee</td>
+		<td>权利人</td>
+	</tr>
+	<tr>
+		<td>creativeNature</td>
+		<td>创作性质</td>
+		<td>author</td>
+		<td>作者</td>
+	</tr>
+	<tr>
+		<td>completionTime</td>
+		<td>创作完成时间</td>
+		<td>ownershipMode</td>
+		<td>权利归属方式</td>
+	</tr>
+	<tr>
+		<td>publicationPlace</td>
+		<td>首次发表地点</td>
+		<td>publicationDate</td>
+		<td>首次发表日期</td>
+	</tr>
+	<tr>
+		<td>versionNum</td>
+		<td>版本号</td>
+		<td>classificNum</td>
+		<td>分类号</td>
+	</tr>
+	<tr>
+		<td>worksType</td>
+		<td>作品分类</td>
+		<td>palceRange</td>
+		<td>地域范围</td>
+	</tr>
+	<tr>
+		<td>authorization</td>
+		<td>永久转让或授权</td>
+		<td>genericClass</td>
+		<td>所属类</td>
+	</tr>
 
 
-<tr>                
-	<td>startDate</td>
-	<td>合同开始时间</td>
-	<td>expirationDate</td>
-	<td>合同到期时间</td>                             
-</tr>
-<tr>                
-	<td>siteAdd</td>
-	<td>网址</td>
-	<td>websiteRecordNum</td>
-	<td>网站备案号</td>                             
-</tr>
-<tr>                
-	<td>auditDate</td>
-	<td>审核时间</td>
-	<td>subjectNum</td>
-	<td>主体编号</td>                             
-</tr>
-<tr>                
-	<td>unitProperty</td>
-	<td>单位性质</td>
-	<td>recordNum</td>
-	<td>主体备案号</td>                             
-</tr>
-<tr>                
-	<td>siteNum</td>
-	<td>网站编号</td>
-	<td>siteName</td>
-	<td>网站名称</td>                             
-</tr>
-<tr>                
-	<td>siteManager</td>
-	<td>网站负责人</td>
-	<td>siteName</td>
-	<td>网站名称</td>                             
-</tr>
-<tr>                
-	<td>siteAdd</td>
-	<td>网站地址</td>
-	<td>domainName</td>
-	<td>域名</td>                             
-</tr>
-<tr>                
-	<td>websiteRecordNum</td>
-	<td>网站备案号</td>
-	<td>contentType</td>
-	<td>内容类型</td>                             
-</tr>
-<tr>                
-	<td>documentType</td>
-	<td>证件类型</td>
-	<td>identificationNumber</td>
-	<td>证件号码</td>                             
-</tr>
-<tr>                
-	<td>city</td>
-	<td>市</td>
-	<td>county</td>
-	<td>县</td>                             
-</tr>
-<tr>                
-	<td>detailedAdd</td>
-	<td>详细地址</td>
-	<td>domainnameNum</td>
-	<td>域名编号</td>                             
-</tr>
-<tr>
-    <td>excuteItem</td>
-    <td>执行事项</td>
-    <td></td>
-    <td></td>
-</tr>
+	<tr>
+		<td>startDate</td>
+		<td>合同开始时间</td>
+		<td>expirationDate</td>
+		<td>合同到期时间</td>
+	</tr>
+	<tr>
+		<td>siteAdd</td>
+		<td>网址</td>
+		<td>websiteRecordNum</td>
+		<td>网站备案号</td>
+	</tr>
+	<tr>
+		<td>auditDate</td>
+		<td>审核时间</td>
+		<td>subjectNum</td>
+		<td>主体编号</td>
+	</tr>
+	<tr>
+		<td>unitProperty</td>
+		<td>单位性质</td>
+		<td>recordNum</td>
+		<td>主体备案号</td>
+	</tr>
+	<tr>
+		<td>siteNum</td>
+		<td>网站编号</td>
+		<td>siteName</td>
+		<td>网站名称</td>
+	</tr>
+	<tr>
+		<td>siteManager</td>
+		<td>网站负责人</td>
+		<td>siteName</td>
+		<td>网站名称</td>
+	</tr>
+	<tr>
+		<td>siteAdd</td>
+		<td>网站地址</td>
+		<td>domainName</td>
+		<td>域名</td>
+	</tr>
+	<tr>
+		<td>websiteRecordNum</td>
+		<td>网站备案号</td>
+		<td>contentType</td>
+		<td>内容类型</td>
+	</tr>
+	<tr>
+		<td>documentType</td>
+		<td>证件类型</td>
+		<td>identificationNumber</td>
+		<td>证件号码</td>
+	</tr>
+	<tr>
+		<td>city</td>
+		<td>市</td>
+		<td>county</td>
+		<td>县</td>
+	</tr>
+	<tr>
+		<td>detailedAdd</td>
+		<td>详细地址</td>
+		<td>domainnameNum</td>
+		<td>域名编号</td>
+	</tr>
+	<tr>
+		<td>excuteItem</td>
+		<td>执行事项</td>
+		<td>caseNo</td>
+		<td>案号 </td>
+	</tr>
+	<tr>
+		<td>decDocument</td>
+		<td>决定文书</td>
+	</tr>
+
 </table>
