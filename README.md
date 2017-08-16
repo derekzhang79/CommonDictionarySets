@@ -1,5 +1,4 @@
 # 小场景常用字段
-# 小场景常用字段
 <table>
 	<tr>
 		<th>字段名</td>
@@ -691,7 +690,6 @@
 		<td>takeObligation</td>
 		<td>生效法律文书确定的义务</td>
 	</tr>
-
 	<tr>
 		<td>illegalFacts</td>
 		<td>主要违法违规事实（案由）</td>
@@ -1106,8 +1104,6 @@
 		<td>genericClass</td>
 		<td>所属类</td>
 	</tr>
-
-
 	<tr>
 		<td>startDate</td>
 		<td>合同开始时间</td>
