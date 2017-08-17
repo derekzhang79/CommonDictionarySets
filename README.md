@@ -1369,6 +1369,48 @@
 	    	<td>相关数据库查询</td>
 	</tr>
 	<tr>
+		<td>years</td>
+		<td>年度</td>
+		<td>institutionsNum</td>
+		<td>预测机构数</td>
+	</tr>
+	<tr>
+		<td>minimum</td>
+		<td>最小值</td>
+		<td>meanValue</td>
+		<td>均值</td>
+	</tr>
+	<tr>
+		<td>maximum</td>
+		<td>最大值</td>
+		<td>average</td>
+		<td>行业平均数</td>
+	</tr>
+	<tr>
+		<td>predictionIndex</td>
+		<td>预测指标</td>
+		<td>actualFourteen</td>
+		<td>2014（实际值）</td>
+	</tr>
+	<tr>
+		<td>actualFifteen</td>
+		<td>2015（实际值）</td>
+		<td>actualSixteen</td>
+		<td>2016（实际值）</td>
+	</tr>
+	<tr>
+		<td>averageSeventeen</td>
+		<td>预测2017（平均）</td>
+		<td>averageEighteen</td>
+		<td>预测2018（平均）</td>
+	</tr>
+	<tr>
+		<td>averageNineteen</td>
+		<td>预测2019（平均）</td>
+		<td>eventDate</td>
+		<td>事件日期</td>
+	</tr>
+	<tr>
 		<td>siteManager</td>
 		<td>网站负责人</td>
 	</tr>
