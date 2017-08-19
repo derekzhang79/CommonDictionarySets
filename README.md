@@ -1369,6 +1369,16 @@
 	    	<td>相关数据库查询</td>
 	</tr>
 	<tr>
+		<td>eventDate</td>
+		<td>事件日期</td>
+		<td>siteManager</td>
+		<td>网站负责人</td>
+	</tr>
+</table>
+
+# 上市公司信息 -- 价值预测
+<table>
+	<tr>
 		<td>years</td>
 		<td>年度</td>
 		<td>institutionsNum</td>
@@ -1407,11 +1417,137 @@
 	<tr>
 		<td>averageNineteen</td>
 		<td>预测2019（平均）</td>
+	</tr>
+</table>
+
+# 上市公司信息 -- 公司大事
+<table>
+	<tr>
+		<td>eventContent</td>
+		<td>事件内容</td>
+		<td>changeData</td>
+		<td>变动日期</td>
+	</tr>
+	<tr>
+		<td>changeUser</td>
+		<td>变动人</td>
+		<td>exeRelations</td>
+		<td>与公司高管关系</td>
+	</tr>
+	<tr>
+		<td>changeNum</td>
+		<td>变动数量（股）</td>
+		<td>averagePrice</td>
+		<td>交易均价（元）</td>
+	</tr>
+	<tr>
+		<td>remainingShares</td>
+		<td>剩余股份（股）</td>
+		<td>shareChangeApproach</td>
+		<td>股份变动途径</td>
+	</tr>
+	<tr>
+		<td>varShareholder</td>
+		<td>变动股东</td>
+		<td>remainingTotal</td>
+		<td>剩余股份总数（股）</td>
+	</tr>
+	<tr>
+		<td>changeTime</td>
+		<td>变动时间</td>
+		<td>changeChannel</td>
+		<td>变动途径</td>
+	</tr>
+	<tr>
+		<td>guaranteeTime</td>
+		<td>时间</td>
+		<td>guaranteeAmount</td>
+		<td>担保金额</td>
+	</tr>
+	<tr>
+		<td>guaranteePeriod</td>
+		<td>担保期限</td>
+		<td>guarantor</td>
+		<td>担保方</td>
+	</tr>
+	<tr>
+		<td>guaranteeType</td>
+		<td>担保类型</td>
+		<td>isGuaranteed</td>
+		<td>被担保方</td>
+	</tr>
+	<tr>
+		<td>transaction</td>
+		<td>关联交易</td>
+		<td>detailTime</td>
+		<td>详情时间</td>
+	</tr>
+	<tr>
 		<td>eventDate</td>
 		<td>事件日期</td>
 	</tr>
+</table>
+
+# 食药监信息 -- 药品注册、备案信息和药品生产、经营及认证信息
+<table>
 	<tr>
-		<td>siteManager</td>
-		<td>网站负责人</td>
+	  	<td>enGenericName</td>
+	  	<td>英文名称/拉丁名称</td>
+	  	<td>drugStandard</td>
+	  	<td>药品标准</td>
+	</tr>
+	<tr>
+	  	<td>productionEnt</td>
+	  	<td>药品生产企业</td>
+	  	<td>filingOrgan</td>
+	  	<td>备案机关</td>
+	</tr>
+	<tr>
+	  	<td>filingState</td>
+	  	<td>备案状态</td>
+	  	<td>extractInfo</td>
+	  	<td>中药提取物信息</td>
+	</tr>
+	<tr>
+	  	<td>staRemarks</td>
+	  	<td>药品本位码备注</td>
+	 	 <td>packApprovalNo</td>
+	  	<td>分包装批准文号</td>
+	</tr>
+	<tr>
+	  	<td>foreignPatent</td>
+	  	<td>外国专利</td>
+	  	<td>patentHolder</td>
+	  	<td>专利人</td>
+	</tr>
+	<tr>
+	  	<td>personCharge</td>
+	  	<td>企业负责人</td>
+	  	<td>foPatentHolder</td>
+	  	<td>外国专利人</td>
+	</tr>
+	<tr>
+	  	<td>qualityOfficer</td>
+	  	<td>质量负责人</td>
+	  	<td>regAddress</td>
+	  	<td>注册地址</td>
+	</tr>
+	<tr>
+	  	<td>productdRange</td>
+	  	<td>生产范围</td>
+	  	<td>regulatoryBody</td>
+	  	<td>日常监管机构</td>
+	</tr>
+	<tr>
+	  	<td>supervisor</td>
+	  	<td>日常监管人员</td>
+	  	<td>supervisoryCall</td>
+	 	 <td>监督举报电话</td>
+	</tr>
+	<tr>
+	  	<td>productSource</td>
+	  	<td>产品来源</td>
+	  	<td>applicantUnit</td>
+	  	<td>申请单位</td>
 	</tr>
 </table>
