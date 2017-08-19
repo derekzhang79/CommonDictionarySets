@@ -1379,6 +1379,12 @@
 # 上市公司信息 -- 价值预测
 <table>
 	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
+	<tr>
 		<td>years</td>
 		<td>年度</td>
 		<td>institutionsNum</td>
@@ -1422,6 +1428,12 @@
 
 # 上市公司信息 -- 公司大事
 <table>
+	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
 	<tr>
 		<td>eventContent</td>
 		<td>事件内容</td>
@@ -1490,6 +1502,12 @@
 
 # 食药监信息 -- 药品注册、备案信息和药品生产、经营及认证信息
 <table>
+	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
 	<tr>
 	  	<td>enGenericName</td>
 	  	<td>英文名称/拉丁名称</td>
