@@ -1569,3 +1569,71 @@
 	  	<td>申请单位</td>
 	</tr>
 </table>
+
+# 食药监信息 -- 医疗器械注册、备案信息
+<table>
+	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
+	<tr>
+	  <td>trialNum</td>
+	  <td>省局初审编号</td>
+	  <td>registrantName</td>
+	  <td>注册人名称</td>
+	</tr>
+	<tr>
+	  <td>structureForm</td>
+	  <td>结构及组成</td>
+	  <td>applyScope</td>
+	  <td>适用范围</td>
+	</tr>
+	<tr>
+	  <td>otherCon</td>
+	  <td>其他内容</td>
+	  <td>enclosure</td>
+	  <td>附件</td>
+	</tr>
+	<tr>
+	  <td>productStandard</td>
+	  <td>产品标准</td>
+	  <td>majorComponent</td>
+	  <td>主要组成成分（体外诊断试剂）</td>
+	</tr>
+	<tr>
+	  <td>intendedUse</td>
+	  <td>预期用途</td>
+	  <td>storageCon</td>
+	  <td>产品储存条件及有效期</td>
+	</tr>
+	<tr>
+	  <td>approvalDepar</td>
+	  <td>审批部门</td>
+	  <td>alteration</td>
+	  <td>变更情况</td>
+	</tr>
+</table>
+
+# 搜索条件
+<table>
+	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
+	<tr>
+		<td>annualReport</td>
+		<td>年报</td>
+		<td>legalProceedings</td>
+		<td>法律诉讼</td>
+	</tr>
+	<tr>
+		<td>breakRecords</td>
+		<td>失信记录</td>
+		<td>registerTime</td>
+		<td>成立时间</td>
+	</tr>
+</table>
