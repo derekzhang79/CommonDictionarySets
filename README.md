@@ -1636,4 +1636,22 @@
 		<td>registerTime</td>
 		<td>成立时间</td>
 	</tr>
+	<tr>
+		<td>unifiedSocialCreditCode</td>
+		<td>统一社会信用码</td>
+		<td>industryClassification</td>
+		<td>行业分类</td>
+	</tr>
+	<tr>
+		<td>productsAndServices</td>
+		<td>产品及服务</td>
+		<td>assetSize</td>
+		<td>资产规模</td>
+	</tr>
+	<tr>
+		<td>industryLevel</td>
+		<td>行业级别</td>
+		<td>regionCode</td>
+		<td>区域代码</td>
+	</tr>
 </table>
