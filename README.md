@@ -1703,6 +1703,12 @@
 # 食药监信息 -- 化妆品注册、备案信息
 <table>
 	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
+	<tr>
 		<td>manufactEnt</td>
 		<td>生产企业</td>
 		<td>manufactAddress</td>
@@ -1741,6 +1747,82 @@
 	<tr>
 		<td>effectiveDate</td>
 		<td>有效期</td>
+	</tr>
+</table>
+
+# 食药监信息 -- 互联网药品信息、交易服务
+<table>
+	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
+	<tr>
+		<td>expirationDate</td>
+		<td>有效截至日期</td>
+		<td>serviceNature</td>
+		<td>服务性质</td>
+	</tr>
+	<tr>
+		<td>orgName</td>
+		<td>机构名称</td>
+		<td>legalRepresen</td>
+		<td>法定代表</td>
+	</tr>
+	<tr>
+		<td>addressCode</td>
+		<td>地址和邮编</td>
+		<td>webDomainName</td>
+		<td>网站域名</td>
+	</tr>
+	<tr>
+		<td>effeStartDate</td>
+		<td>有效起始日期</td>
+	</tr>
+</table>
+
+# 食药监信息 -- 广告监管信息
+<table>
+	<tr>
+		<th>字段名</td>
+		<th>描述</td>
+		<th>字段名</td>
+		<th>描述</td>
+	</tr>
+	<tr>
+		<td>adValidity</td>
+		<td>广告有效期</td>
+		<td>whenLong</td>
+		<td>时长</td>
+	</tr>
+	<tr>
+		<td>adCategories</td>
+		<td>广告类别</td>
+		<td>preClassification</td>
+		<td>处方分类</td>
+	</tr>
+	<tr>
+		<td>postalCode</td>
+		<td>邮政编码</td>
+		<td>unitName</td>
+		<td>单位名称</td>
+	</tr>
+	<tr>
+		<td>unitAddress</td>
+		<td>单位地址</td>
+		<td>drugApprovalNo</td>
+		<td>药品广告批准文号</td>
+	</tr>
+	<tr>
+		<td>maEnterpriseName</td>
+		<td>生产企业名称</td>
+		<td>maEpLocation</td>
+		<td>生产企业所在地</td>
+	</tr>
+	<tr>
+		<td>proApprovalNum</td>
+		<td>产品批准文号</td>
 	</tr>
 </table>
 
