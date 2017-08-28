@@ -1424,6 +1424,30 @@
 		<td>averageNineteen</td>
 		<td>预测2019（平均）</td>
 	</tr>
+	<tr>
+		<td>growthRate</td>
+		<td>收入增长率</td>
+		<td>totalProfit</td>
+		<td>利润总额</td>
+	</tr>
+	<tr>
+		<td>netProfit</td>
+		<td>净利润</td>
+		<td>profitGrowthDate</td>
+		<td>利润增长率</td>
+	</tr>
+	<tr>
+		<td>cashFlow</td>
+		<td>现金流</td>
+		<td>netAssets</td>
+		<td>净资产</td>
+	</tr>
+	<tr>
+		<td>rateReturn</td>
+		<td>收益率</td>
+		<td>earningsRatio</td>
+		<td>市盈率</td>
+	</tr>
 </table>
 
 # 上市公司信息 -- 公司大事
@@ -1579,40 +1603,144 @@
 		<th>描述</td>
 	</tr>
 	<tr>
-	  <td>trialNum</td>
-	  <td>省局初审编号</td>
-	  <td>registrantName</td>
-	  <td>注册人名称</td>
+		  <td>trialNum</td>
+		  <td>省局初审编号</td>
+		  <td>registrantName</td>
+		  <td>注册人名称</td>
 	</tr>
 	<tr>
-	  <td>structureForm</td>
-	  <td>结构及组成</td>
-	  <td>applyScope</td>
-	  <td>适用范围</td>
+		  <td>structureForm</td>
+		  <td>结构及组成</td>
+		  <td>applyScope</td>
+		  <td>适用范围</td>
 	</tr>
 	<tr>
-	  <td>otherCon</td>
-	  <td>其他内容</td>
-	  <td>enclosure</td>
-	  <td>附件</td>
+		  <td>otherCon</td>
+		  <td>其他内容</td>
+		  <td>enclosure</td>
+		  <td>附件</td>
 	</tr>
 	<tr>
-	  <td>productStandard</td>
-	  <td>产品标准</td>
-	  <td>majorComponent</td>
-	  <td>主要组成成分（体外诊断试剂）</td>
+		  <td>productStandard</td>
+		  <td>产品标准</td>
+		  <td>majorComponent</td>
+		  <td>主要组成成分（体外诊断试剂）</td>
 	</tr>
 	<tr>
-	  <td>intendedUse</td>
-	  <td>预期用途</td>
-	  <td>storageCon</td>
-	  <td>产品储存条件及有效期</td>
+		  <td>intendedUse</td>
+		  <td>预期用途</td>
+		  <td>storageCon</td>
+		  <td>产品储存条件及有效期</td>
 	</tr>
 	<tr>
-	  <td>approvalDepar</td>
-	  <td>审批部门</td>
-	  <td>alteration</td>
-	  <td>变更情况</td>
+		  <td>approvalDepar</td>
+		  <td>审批部门</td>
+		  <td>alteration</td>
+		  <td>变更情况</td>
+	</tr>
+	<tr>
+		<td>agentName</td>
+		<td>代理人名称</td>
+		<td>agentAds</td>
+		<td>代理人住所</td>
+	</tr>
+	<tr>
+		<td>postCode</td>
+		<td>邮编</td>
+		<td>enProCountry</td>
+		<td>生产国或地区（英文）</td>
+	</tr>
+	<tr>
+		<td>chProductName</td>
+		<td>产品名称（中文）</td>
+		<td>serInstitutions</td>
+		<td>售后服务机构</td>
+	</tr>
+	<tr>
+		<td>chProCountry</td>
+		<td>生产国或地区（中文）</td>
+		<td>proCategory</td>
+		<td>产品类别</td>
+	</tr>
+	<tr>
+		<td>applicantName</td>
+		<td>备案人名称</td>
+		<td>applicantCode</td>
+		<td>备案人组织机构代码</td>
+	</tr>
+	<tr>
+		<td>applicantAds</td>
+		<td>备案人注册地址</td>
+		<td>agentRegisAds</td>
+		<td>代理人注册地址</td>
+	</tr>
+	<tr>
+		<td>proClassifiName</td>
+		<td>产品名称或产品分类名称</td>
+		<td>proValidity</td>
+		<td>产品有效期</td>
+	</tr>
+	<tr>
+		<td>MainComponent</td>
+		<td>产品描述或主要组成成份</td>
+		<td>filingUnit</td>
+		<td>备案单位</td>
+	</tr>
+	<tr>
+		<td>testStaName</td>
+		<td>检测标准名称</td>
+		<td>testStaCode</td>
+		<td>检测标准编号</td>
+	</tr>
+	<tr>
+		<td>explain</td>
+		<td>限制范围及说明</td>
+		<td>testStaCompany</td>
+		<td>检测单位</td>
+	</tr>
+</table>
+
+# 食药监信息 -- 化妆品注册、备案信息
+<table>
+	<tr>
+		<td>manufactEnt</td>
+		<td>生产企业</td>
+		<td>manufactAddress</td>
+		<td>生产企业地址</td>
+	</tr>
+	<tr>
+		<td>approvalState</td>
+		<td>批件状态</td>
+		<td>effectiveDate</td>
+		<td>批件有效期</td>
+	</tr>
+	<tr>
+		<td>licenseNum</td>
+		<td>卫产许可证号</td>
+		<td>proNameRemarks</td>
+		<td>产品名称备注</td>
+	</tr>
+	<tr>
+		<td>proCountry</td>
+		<td>生产国（地区）</td>
+		<td>chManufactEnt</td>
+		<td>生产企业(中文)</td>
+	</tr>
+	<tr>
+		<td>enManufactEnt</td>
+		<td>生产企业(英文)</td>
+		<td>chReportUnit </td>
+		<td>在华申报责任单位</td>
+	</tr>
+	<tr>
+		<td>chReportUnitAds</td>
+		<td>在华责任单位地址</td>
+		<td>approvalNum</td>
+		<td>批准文号</td>
+	</tr>
+	<tr>
+		<td>effectiveDate</td>
+		<td>有效期</td>
 	</tr>
 </table>
 
